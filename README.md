@@ -2,9 +2,16 @@
 ## Azure CLI
 az ad sp, https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az_ad_sp_create<br>
 
+## Azure Virtial Macines Linux
+Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
+
 ## Ansible on Azure
 Quickstart: Create an Azure service principal for Ansible, https://docs.microsoft.com/en-us/azure/developer/ansible/create-ansible-service-principal?tabs=azure-cli<br>
+Quickstart: Configure Ansible on an Azure VM, https://docs.microsoft.com/en-us/azure/developer/ansible/install-on-linux-vm?tabs=azure-cli<br>
 Tutorial: Configure dynamic inventories of your Azure resources using Ansible, https://docs.microsoft.com/en-us/azure/developer/ansible/dynamic-inventory-configure?tabs=azure-cli<br>
+
+## Azure File Sync
+Troubleshoot Azure File Sync, https://docs.microsoft.com/en-us/azure/storage/file-sync/file-sync-troubleshoot?tabs=portal1%2Cazure-portal#sync<br>
 
 ## Azure Virtual Desktop
 Start Virtual Machine on Connect, https://docs.microsoft.com/en-us/azure/virtual-desktop/start-virtual-machine-connect<br>
