@@ -26,3 +26,6 @@ Unlocking an encrypted disk for offline repair, https://docs.microsoft.com/en-us
 Confirm that ADE is enabled on the disk, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/unlock-encrypted-disk-offline#confirm-that-ade-is-enabled-on-the-disk<br>
 Attach an unmanaged disk to a VM for offline repair, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/unmanaged-disk-offline-repair<br>
 Azure Disk Encryption Support, adesup@microsoft.com 
+
+## Useful tools 
+Qualys SSL Labs - SSL Server Test, https://www.ssllabs.com/ssltest/index.html<br>
