@@ -4,6 +4,8 @@ az ad sp, https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest
 
 ## Azure Virtial Macines Linux
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
+Use the portal to attach a data disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal<br>
+Add a disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/add-disk<br>
 
 ## Ansible on Azure
 Quickstart: Create an Azure service principal for Ansible, https://docs.microsoft.com/en-us/azure/developer/ansible/create-ansible-service-principal?tabs=azure-cli<br>
@@ -25,7 +27,8 @@ Troubleshoot a Windows VM by attaching the OS disk to a repair VM through the Az
 Unlocking an encrypted disk for offline repair, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/unlock-encrypted-disk-offline<br> 
 Confirm that ADE is enabled on the disk, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/unlock-encrypted-disk-offline#confirm-that-ade-is-enabled-on-the-disk<br>
 Attach an unmanaged disk to a VM for offline repair, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/unmanaged-disk-offline-repair<br>
-Azure Disk Encryption Support, adesup@microsoft.com 
+Azure Disk Encryption Support, adesup@microsoft.com<br> 
+Chroot environment in a Linux Rescue VM, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/chroot-environment-linux<br>
 
 ## Useful tools 
 Qualys SSL Labs - SSL Server Test, https://www.ssllabs.com/ssltest/index.html<br>
