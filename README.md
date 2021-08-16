@@ -18,6 +18,9 @@ Troubleshoot Azure File Sync, https://docs.microsoft.com/en-us/azure/storage/fil
 ## Azure Virtual Desktop
 Start Virtual Machine on Connect, https://docs.microsoft.com/en-us/azure/virtual-desktop/start-virtual-machine-connect<br>
 
+## Windows Server
+Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software#overview<br>
+
 ## Tech Community Microsoft
 Start VM on connect enters GA, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/start-vm-on-connect-enters-ga/m-p/2595282/thread-id/7570<br>
 MUST READ - WVD Personal VM - Proper Shutdown process and deallocate VM to save costs!, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/must-read-wvd-personal-vm-proper-shutdown-process-and-deallocate/m-p/2377241<br>
