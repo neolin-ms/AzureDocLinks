@@ -32,6 +32,9 @@ Confirm that ADE is enabled on the disk, https://docs.microsoft.com/en-us/troubl
 Attach an unmanaged disk to a VM for offline repair, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/unmanaged-disk-offline-repair<br>
 Azure Disk Encryption Support, adesup@microsoft.com<br> 
 Chroot environment in a Linux Rescue VM, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/chroot-environment-linux<br>
+Proactively ensuring you have access to GRUB and sysrq could save you lots of down time, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/serial-console-grub-proactive-configuration<br>
+Use Serial Console to access GRUB and single-user mode, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/serial-console-grub-single-user-mode<br>
+How to use GRUB and the Azure Serial Console on a Linux Virtual Machine | Azure Tips and Tricks, https://www.youtube.com/watch?v=SnqwTqlvYkc<br>
 
 ## stack overflow 
 How to find if a Virtual Machine is using managed/Unmanaged disks in Azure, https://stackoverflow.com/questions/43418208/how-to-find-if-a-virtual-machine-is-using-managed-unmanaged-disks-in-azure<br>
