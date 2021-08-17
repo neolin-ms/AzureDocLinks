@@ -1,4 +1,5 @@
 # AzureDocLinks
+
 ## Azure CLI
 az ad sp, https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az_ad_sp_create<br>
 
@@ -7,6 +8,15 @@ Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azur
 Use the portal to attach a data disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal<br>
 Add a disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/add-disk<br>
 Resize an OS disk that has a GPT partition, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/resize-os-disk-gpt-partition<br>
+
+## Azure Networking Firewall
+Use FQDN filtering in network rules, https://docs.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules<br>
+
+## Azure Secuirty Center
+Configure auto provisioning for agents and extensions from Azure Security Center, https://docs.microsoft.com/en-us/azure/security-center/security-center-enable-data-collection<br>
+Remediate recommendations in Azure Security Center, https://docs.microsoft.com/en-us/azure/security-center/security-center-remediate-recommendations<br>
+Security Control: Apply System Updates, https://techcommunity.microsoft.com/t5/azure-security-center/security-control-apply-system-updates/ba-p/2169206<br>
+Secure score in Azure Security Center, https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls<br>
 
 ## Ansible on Azure
 Quickstart: Create an Azure service principal for Ansible, https://docs.microsoft.com/en-us/azure/developer/ansible/create-ansible-service-principal?tabs=azure-cli<br>
@@ -18,6 +28,9 @@ Troubleshoot Azure File Sync, https://docs.microsoft.com/en-us/azure/storage/fil
 
 ## Azure Virtual Desktop
 Start Virtual Machine on Connect, https://docs.microsoft.com/en-us/azure/virtual-desktop/start-virtual-machine-connect<br>
+
+## Azure Automation
+Automation pricing, https://azure.microsoft.com/en-us/pricing/details/automation/<br>
 
 ## Windows Server
 Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software#overview<br>
