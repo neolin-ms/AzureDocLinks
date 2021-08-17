@@ -6,6 +6,7 @@ az ad sp, https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
 Use the portal to attach a data disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal<br>
 Add a disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/add-disk<br>
+Resize an OS disk that has a GPT partition, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/resize-os-disk-gpt-partition<br>
 
 ## Ansible on Azure
 Quickstart: Create an Azure service principal for Ansible, https://docs.microsoft.com/en-us/azure/developer/ansible/create-ansible-service-principal?tabs=azure-cli<br>
