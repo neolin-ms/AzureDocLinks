@@ -18,6 +18,12 @@ Remediate recommendations in Azure Security Center, https://docs.microsoft.com/e
 Security Control: Apply System Updates, https://techcommunity.microsoft.com/t5/azure-security-center/security-control-apply-system-updates/ba-p/2169206<br>
 Secure score in Azure Security Center, https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls<br>
 
+## Azure Monitor
+Azure Activity log, https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log<br>
+
+## Azure resources
+Virtual machines with Azure Backup, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-limitations/virtual-machines-move-limitations#virtual-machines-with-azure-backup<br>
+
 ## Ansible on Azure
 Quickstart: Create an Azure service principal for Ansible, https://docs.microsoft.com/en-us/azure/developer/ansible/create-ansible-service-principal?tabs=azure-cli<br>
 Quickstart: Configure Ansible on an Azure VM, https://docs.microsoft.com/en-us/azure/developer/ansible/install-on-linux-vm?tabs=azure-cli<br>
