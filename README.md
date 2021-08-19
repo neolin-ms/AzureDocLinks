@@ -38,6 +38,12 @@ Start Virtual Machine on Connect, https://docs.microsoft.com/en-us/azure/virtual
 ## Azure Automation
 Automation pricing, https://azure.microsoft.com/en-us/pricing/details/automation/<br>
 
+## Azure Updates
+NC-series Azure Virtual Machines will be retired by 31 August 2022, https://azure.microsoft.com/en-us/updates/ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022/<br>
+
+## Azure Security Fundamentals
+Shared responsibility in the cloud, https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility<br>
+
 ## Windows Server
 Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software#overview<br>
 
