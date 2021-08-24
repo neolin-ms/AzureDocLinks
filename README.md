@@ -50,9 +50,10 @@ Shared responsibility in the cloud, https://docs.microsoft.com/en-us/azure/secur
 ## Windows Server
 Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software#overview<br>
 
-## Tech Community Microsoft
+## Microsoft Tech Community
 Start VM on connect enters GA, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/start-vm-on-connect-enters-ga/m-p/2595282/thread-id/7570<br>
 MUST READ - WVD Personal VM - Proper Shutdown process and deallocate VM to save costs!, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/must-read-wvd-personal-vm-proper-shutdown-process-and-deallocate/m-p/2377241<br>
+Calculate the size/capacity of storage account and it services (Blob/Table), https://techcommunity.microsoft.com/t5/azure-paas-blog/calculate-the-size-capacity-of-storage-account-and-it-services/ba-p/1064046<br>
 
 ## Troubleshoot
 Troubleshoot a Windows VM by attaching the OS disk to a repair VM through the Azure portal, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/troubleshoot-recovery-disks-portal-windows<br>
