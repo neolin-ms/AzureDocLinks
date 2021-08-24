@@ -22,6 +22,8 @@ Secure score in Azure Security Center, https://docs.microsoft.com/en-us/azure/se
 azure-monitor - Microsoft Q&A, https://docs.microsoft.com/en-us/answers/topics/azure-monitor.html<br>
 Azure Activity log, https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log<br>
 Migrate from Log Analytics agents, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration<br> 
+How to troubleshoot issues with the Log Analytics agent for Linux, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot<br>
+
 
 ## Azure resources
 Virtual machines with Azure Backup, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-limitations/virtual-machines-move-limitations#virtual-machines-with-azure-backup<br>
