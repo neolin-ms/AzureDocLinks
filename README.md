@@ -64,6 +64,9 @@ Proactively ensuring you have access to GRUB and sysrq could save you lots of do
 Use Serial Console to access GRUB and single-user mode, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/serial-console-grub-single-user-mode<br>
 How to use GRUB and the Azure Serial Console on a Linux Virtual Machine | Azure Tips and Tricks, https://www.youtube.com/watch?v=SnqwTqlvYkc<br>
 
+## Microsoft Support
+UserVoice Pages, https://support.microsoft.com/en-us/office/uservoice-pages-430e1a78-e016-472a-a10f-dc2a3df3450a<br>
+
 ## stack overflow 
 How to find if a Virtual Machine is using managed/Unmanaged disks in Azure, https://stackoverflow.com/questions/43418208/how-to-find-if-a-virtual-machine-is-using-managed-unmanaged-disks-in-azure<br>
 Rabbit MQ support in Azure, https://stackoverflow.com/questions/64267768/rabbit-mq-support-in-azure<br>
