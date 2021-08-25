@@ -17,6 +17,17 @@ Configure auto provisioning for agents and extensions from Azure Security Center
 Remediate recommendations in Azure Security Center, https://docs.microsoft.com/en-us/azure/security-center/security-center-remediate-recommendations<br>
 Security Control: Apply System Updates, https://techcommunity.microsoft.com/t5/azure-security-center/security-control-apply-system-updates/ba-p/2169206<br>
 Secure score in Azure Security Center, https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls<br>
+Security controls and their recommendations, https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls#security-controls-and-their-recommendations<br>
+Security recommendations - a reference guide, https://docs.microsoft.com/en-us/azure/security-center/recommendations-reference#compute-recommendations<br>
+
+## Azure Security Benchmark
+Vulnerability Management, https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-machines-linux-security-baseline#vulnerability-management<br>
+
+## Azure Security Controls
+Overview of the Azure Security Benchmark (V2), https://docs.microsoft.com/en-us/security/benchmark/azure/overview<br>
+
+## Azure Policy
+Compute security baseline - Linux security baseline, https://docs.microsoft.com/en-us/azure/governance/policy/samples/guest-configuration-baseline-linux<br>
 
 ## Azure Monitor
 azure-monitor - Microsoft Q&A, https://docs.microsoft.com/en-us/answers/topics/azure-monitor.html<br>
@@ -56,6 +67,8 @@ Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-
 Start VM on connect enters GA, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/start-vm-on-connect-enters-ga/m-p/2595282/thread-id/7570<br>
 MUST READ - WVD Personal VM - Proper Shutdown process and deallocate VM to save costs!, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/must-read-wvd-personal-vm-proper-shutdown-process-and-deallocate/m-p/2377241<br>
 Calculate the size/capacity of storage account and it services (Blob/Table), https://techcommunity.microsoft.com/t5/azure-paas-blog/calculate-the-size-capacity-of-storage-account-and-it-services/ba-p/1064046<br>
+Security Control: Remediate Security Configurations, https://techcommunity.microsoft.com/t5/azure-security-center/security-control-remediate-security-configurations/ba-p/1946319<br>
+
 
 ## Troubleshoot
 Troubleshoot a Windows VM by attaching the OS disk to a repair VM through the Azure portal, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/troubleshoot-recovery-disks-portal-windows<br>
@@ -67,6 +80,20 @@ Chroot environment in a Linux Rescue VM, https://docs.microsoft.com/en-us/troubl
 Proactively ensuring you have access to GRUB and sysrq could save you lots of down time, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/serial-console-grub-proactive-configuration<br>
 Use Serial Console to access GRUB and single-user mode, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/serial-console-grub-single-user-mode<br>
 How to use GRUB and the Azure Serial Console on a Linux Virtual Machine | Azure Tips and Tricks, https://www.youtube.com/watch?v=SnqwTqlvYkc<br>
+Troubleshooting a Linux VM when there is no access to the Azure serial console and the disk layout is using LVM (Logical Volume Manager), https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/chroot-logical-volume-manager<br>
+An Azure Linux VM on a 3.10-based kernel panics after a host node upgrade, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux-kernel-panics-upgrade<br>
+Linux VM boots to Grub Rescue, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/troubleshoot-vm-boot-error<br>
+How to recover an Azure Linux virtual machine from kernel-related boot issues, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/kernel-related-boot-issues<br>
+Linux Recovery: Using CHROOT steps to recover VMs that are not accessible, https://docs.microsoft.com/en-us/archive/blogs/linuxonazure/linux-recovery-using-chroot-steps-to-recover-vms-that-are-not-accessible<br>
+A Linux VM does not start correctly with kernel 3.10.0-514.16 after an LIS upgrade, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux-vm-not-start-kernel-lis<br>
+Chroot environment in a Linux Rescue VM, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/chroot-environment-linux#rhelcentos-7x-with-lvm<br>
+Troubleshoot Linux VM starting issues due to file system errors, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux-recovery-cannot-start-file-system-errors<br>
+
+
+
+
+
+
 
 ## Microsoft Support
 UserVoice Pages, https://support.microsoft.com/en-us/office/uservoice-pages-430e1a78-e016-472a-a10f-dc2a3df3450a<br>
