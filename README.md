@@ -3,11 +3,12 @@
 ## Azure CLI
 az ad sp, https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az_ad_sp_create<br>
 
-## Azure Virtial Macines Linux
+## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
 Use the portal to attach a data disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal<br>
 Add a disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/add-disk<br>
 Resize an OS disk that has a GPT partition, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/resize-os-disk-gpt-partition<br>
+Stated and billing of Azure Virtual Machines, https://docs.microsoft.com/en-us/azure/virtual-machines/states-billing<br>
 
 ## Azure Networking Firewall
 Use FQDN filtering in network rules, https://docs.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules<br>
