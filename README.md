@@ -9,6 +9,8 @@ Use the portal to attach a data disk to a Linux VM, https://docs.microsoft.com/e
 Add a disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/add-disk<br>
 Resize an OS disk that has a GPT partition, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/resize-os-disk-gpt-partition<br>
 Stated and billing of Azure Virtual Machines, https://docs.microsoft.com/en-us/azure/virtual-machines/states-billing<br>
+Expand a disk partition and filesystem - Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/expand-disks#expand-a-disk-partition-and-filesystem<br>
+
 
 ## Azure Networking Firewall
 Use FQDN filtering in network rules, https://docs.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules<br>
