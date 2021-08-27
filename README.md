@@ -11,7 +11,6 @@ Resize an OS disk that has a GPT partition, https://docs.microsoft.com/en-us/azu
 Stated and billing of Azure Virtual Machines, https://docs.microsoft.com/en-us/azure/virtual-machines/states-billing<br>
 Expand a disk partition and filesystem - Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/expand-disks#expand-a-disk-partition-and-filesystem<br>
 
-
 ## Azure Networking Firewall
 Use FQDN filtering in network rules, https://docs.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules<br>
 
@@ -92,14 +91,12 @@ A Linux VM does not start correctly with kernel 3.10.0-514.16 after an LIS upgra
 Chroot environment in a Linux Rescue VM, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/chroot-environment-linux#rhelcentos-7x-with-lvm<br>
 Troubleshoot Linux VM starting issues due to file system errors, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux-recovery-cannot-start-file-system-errors<br>
 
-
-
-
-
-
-
 ## Microsoft Support
 UserVoice Pages, https://support.microsoft.com/en-us/office/uservoice-pages-430e1a78-e016-472a-a10f-dc2a3df3450a<br>
+
+## Microsoft Windows Command Line
+WSL 2 will be generally available in Windows 10, version 2004, https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/<br>
+Windows Command Line, https://devblogs.microsoft.com/commandline/<br>
 
 ## stack overflow 
 How to find if a Virtual Machine is using managed/Unmanaged disks in Azure, https://stackoverflow.com/questions/43418208/how-to-find-if-a-virtual-machine-is-using-managed-unmanaged-disks-in-azure<br>
