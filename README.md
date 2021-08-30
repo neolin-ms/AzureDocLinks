@@ -10,6 +10,11 @@ Add a disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machine
 Resize an OS disk that has a GPT partition, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/resize-os-disk-gpt-partition<br>
 Stated and billing of Azure Virtual Machines, https://docs.microsoft.com/en-us/azure/virtual-machines/states-billing<br>
 Expand a disk partition and filesystem - Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/expand-disks#expand-a-disk-partition-and-filesystem<br>
+How to create a Linux virtual machine in Azure with multiple network interface cards, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/multiple-nics?toc=/azure/virtual-network/toc.json<br>
+
+## Azure Virtual Network
+Manage NICs, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface#create-a-network-interface<br>
+Add or remove network interfaces, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface-vm#before-you-begin<br>
 
 ## Azure Networking Firewall
 Use FQDN filtering in network rules, https://docs.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules<br>
