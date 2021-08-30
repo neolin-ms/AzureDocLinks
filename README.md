@@ -26,6 +26,10 @@ Security Control: Apply System Updates, https://techcommunity.microsoft.com/t5/a
 Secure score in Azure Security Center, https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls<br>
 Security controls and their recommendations, https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls#security-controls-and-their-recommendations<br>
 Security recommendations - a reference guide, https://docs.microsoft.com/en-us/azure/security-center/recommendations-reference#compute-recommendations<br>
+Trigger the security scan, https://github.com/MicrosoftDocs/azure-docs/issues/27496<br>
+Monitoring for new or changed resources, https://docs.microsoft.com/en-us/azure/security-center/security-center-planning-and-operations-guide#monitoring-for-new-or-changed-resources<br>
+How often does Security Center scan for operating system vulnerabilities, system updates, and endpoint protection issues?, https://docs.microsoft.com/en-us/azure/security-center/faq-vms#how-often-does-security-center-scan-for-operating-system-vulnerabilities--system-updates--and-endpoint-protection-issues-<br>
+
 
 ## Azure Security Benchmark
 Vulnerability Management, https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-machines-linux-security-baseline#vulnerability-management<br>
