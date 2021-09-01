@@ -11,6 +11,7 @@ Resize an OS disk that has a GPT partition, https://docs.microsoft.com/en-us/azu
 Stated and billing of Azure Virtual Machines, https://docs.microsoft.com/en-us/azure/virtual-machines/states-billing<br>
 Expand a disk partition and filesystem - Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/expand-disks#expand-a-disk-partition-and-filesystem<br>
 How to create a Linux virtual machine in Azure with multiple network interface cards, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/multiple-nics?toc=/azure/virtual-network/toc.json<br>
+Log Analytics virtual machine extension for Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/oms-linux<br>
 
 ## Azure Virtual Network
 Manage NICs, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface#create-a-network-interface<br>
@@ -44,6 +45,7 @@ Compute security baseline - Linux security baseline, https://docs.microsoft.com/
 azure-monitor - Microsoft Q&A, https://docs.microsoft.com/en-us/answers/topics/azure-monitor.html<br>
 Azure Activity log, https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log<br>
 Migrate from Log Analytics agents, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration<br> 
+How to troubleshoot issues with the Log Analytics agent for Linux, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot<br>
 How to troubleshoot issues with the Log Analytics agent for Linux, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot<br>
 
 
@@ -99,6 +101,10 @@ Linux Recovery: Using CHROOT steps to recover VMs that are not accessible, https
 A Linux VM does not start correctly with kernel 3.10.0-514.16 after an LIS upgrade, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux-vm-not-start-kernel-lis<br>
 Chroot environment in a Linux Rescue VM, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/chroot-environment-linux#rhelcentos-7x-with-lvm<br>
 Troubleshoot Linux VM starting issues due to file system errors, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux-recovery-cannot-start-file-system-errors<br>
+How to reinstall Operations Management Suite (OMS) Agent for Linux, https://docs.microsoft.com/en-us/troubleshoot/azure/general/reinstall-oms-agent-linux<br>
+
+## Azure Storage AzCopy
+AzCopy Releases, https://github.com/Azure/azure-storage-azcopy/releases<br>
 
 ## Microsoft Support
 UserVoice Pages, https://support.microsoft.com/en-us/office/uservoice-pages-430e1a78-e016-472a-a10f-dc2a3df3450a<br>
