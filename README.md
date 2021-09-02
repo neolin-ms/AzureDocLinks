@@ -58,11 +58,15 @@ Quickstart: Create an Azure service principal for Ansible, https://docs.microsof
 Quickstart: Configure Ansible on an Azure VM, https://docs.microsoft.com/en-us/azure/developer/ansible/install-on-linux-vm?tabs=azure-cli<br>
 Tutorial: Configure dynamic inventories of your Azure resources using Ansible, https://docs.microsoft.com/en-us/azure/developer/ansible/dynamic-inventory-configure?tabs=azure-cli<br>
 
+## Azure File
+Azue Files Multiple Backups per Day, https://aka.ms/AzureFilesMultipleBackups<br>
+
 ## Azure File Sync
 Troubleshoot Azure File Sync, https://docs.microsoft.com/en-us/azure/storage/file-sync/file-sync-troubleshoot?tabs=portal1%2Cazure-portal#sync<br>
 
 ## Azure Virtual Desktop
 Start Virtual Machine on Connect, https://docs.microsoft.com/en-us/azure/virtual-desktop/start-virtual-machine-connect<br>
+Migrate automatically from Azure Virtual Desktop (classic) (preview), https://docs.microsoft.com/en-us/azure/virtual-desktop/automatic-migration<br>
 
 ## Azure Automation
 Automation pricing, https://azure.microsoft.com/en-us/pricing/details/automation/<br>
@@ -75,13 +79,15 @@ Shared responsibility in the cloud, https://docs.microsoft.com/en-us/azure/secur
 
 ## Windows Server
 Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software#overview<br>
+Windows Server 2022 now generally available—delivers innovation in security, hybrid, and containers, https://cloudblogs.microsoft.com/windowsserver/2021/09/01/windows-server-2022-now-generally-available-delivers-innovation-in-security-hybrid-and-containers/<br>
 
 ## Microsoft Tech Community
 Start VM on connect enters GA, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/start-vm-on-connect-enters-ga/m-p/2595282/thread-id/7570<br>
 MUST READ - WVD Personal VM - Proper Shutdown process and deallocate VM to save costs!, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/must-read-wvd-personal-vm-proper-shutdown-process-and-deallocate/m-p/2377241<br>
 Calculate the size/capacity of storage account and it services (Blob/Table), https://techcommunity.microsoft.com/t5/azure-paas-blog/calculate-the-size-capacity-of-storage-account-and-it-services/ba-p/1064046<br>
 Security Control: Remediate Security Configurations, https://techcommunity.microsoft.com/t5/azure-security-center/security-control-remediate-security-configurations/ba-p/1946319<br>
-
+Announcing Public Preview: Tool to migrate from Azure Virtual Desktop Classic to ARM, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/announcing-public-preview-tool-to-migrate-from-azure-virtual/m-p/2708431#M7774<br>
+Windows Server 2022 Now Generally Available, https://techcommunity.microsoft.com/t5/containers/windows-server-2022-now-generally-available/ba-p/2689973<br>
 
 ## Troubleshoot
 Troubleshoot a Windows VM by attaching the OS disk to a repair VM through the Azure portal, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/troubleshoot-recovery-disks-portal-windows<br>
