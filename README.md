@@ -80,6 +80,7 @@ Shared responsibility in the cloud, https://docs.microsoft.com/en-us/azure/secur
 ## Windows Server
 Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software#overview<br>
 Windows Server 2022 now generally available—delivers innovation in security, hybrid, and containers, https://cloudblogs.microsoft.com/windowsserver/2021/09/01/windows-server-2022-now-generally-available-delivers-innovation-in-security-hybrid-and-containers/<br>
+Supported CentOS and Red Hat Enterprise Linux virtual machines on Hyper-V, https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/supported-centos-and-red-hat-enterprise-linux-virtual-machines-on-hyper-v<br>
 
 ## Microsoft Tech Community
 Start VM on connect enters GA, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/start-vm-on-connect-enters-ga/m-p/2595282/thread-id/7570<br>
