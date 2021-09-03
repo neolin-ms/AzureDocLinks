@@ -12,10 +12,12 @@ Stated and billing of Azure Virtual Machines, https://docs.microsoft.com/en-us/a
 Expand a disk partition and filesystem - Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/expand-disks#expand-a-disk-partition-and-filesystem<br>
 How to create a Linux virtual machine in Azure with multiple network interface cards, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/multiple-nics?toc=/azure/virtual-network/toc.json<br>
 Log Analytics virtual machine extension for Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/oms-linux<br>
+VMAccess Extension - Github, https://github.com/Azure/azure-linux-extensions/tree/master/VMAccess<br>
 
 ## Azure Virtual Network
 Manage NICs, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface#create-a-network-interface<br>
 Add or remove network interfaces, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface-vm#before-you-begin<br>
+UnhandledError in Provision: No such file or directory '/etc/sysconfig/network-scripts/ifcfg-eth1' #1048, https://github.com/Azure/WALinuxAgent/issues/1048<br>
 
 ## Azure Networking Firewall
 Use FQDN filtering in network rules, https://docs.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules<br>
@@ -30,7 +32,6 @@ Security recommendations - a reference guide, https://docs.microsoft.com/en-us/a
 Trigger the security scan, https://github.com/MicrosoftDocs/azure-docs/issues/27496<br>
 Monitoring for new or changed resources, https://docs.microsoft.com/en-us/azure/security-center/security-center-planning-and-operations-guide#monitoring-for-new-or-changed-resources<br>
 How often does Security Center scan for operating system vulnerabilities, system updates, and endpoint protection issues?, https://docs.microsoft.com/en-us/azure/security-center/faq-vms#how-often-does-security-center-scan-for-operating-system-vulnerabilities--system-updates--and-endpoint-protection-issues-<br>
-
 
 ## Azure Security Benchmark
 Vulnerability Management, https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-machines-linux-security-baseline#vulnerability-management<br>
@@ -48,10 +49,14 @@ Migrate from Log Analytics agents, https://docs.microsoft.com/en-us/azure/azure-
 How to troubleshoot issues with the Log Analytics agent for Linux, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot<br>
 How to troubleshoot issues with the Log Analytics agent for Linux, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot<br>
 
-
 ## Azure resources
 Virtual machines with Azure Backup, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-limitations/virtual-machines-move-limitations#virtual-machines-with-azure-backup<br>
 Subscription and service limits - Storage limits, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#storage-limits<br>
+
+## Azure Blog
+Cross-subscription disaster recovery for Azure virtual machines, https://azure.microsoft.com/en-us/blog/cross-subscription-dr/<br>
+Using VMAccess Extension to Reset Login Credentials, Add New User and Add SSH Key for Linux VM, https://azure.microsoft.com/en-us/blog/using-vmaccess-extension-to-reset-login-credentials-for-linux-vm/<br>
+
 
 ## Ansible on Azure
 Quickstart: Create an Azure service principal for Ansible, https://docs.microsoft.com/en-us/azure/developer/ansible/create-ansible-service-principal?tabs=azure-cli<br>
@@ -70,6 +75,8 @@ Migrate automatically from Azure Virtual Desktop (classic) (preview), https://do
 
 ## Azure Automation
 Automation pricing, https://azure.microsoft.com/en-us/pricing/details/automation/<br>
+An introduction to Azure Automation, https://docs.microsoft.com/en-us/azure/automation/automation-intro<br>
+Configure Start/Stop VMs during off-hours, https://docs.microsoft.com/en-us/azure/automation/automation-solution-vm-management-config<br>
 
 ## Azure Updates
 NC-series Azure Virtual Machines will be retired by 31 August 2022, https://azure.microsoft.com/en-us/updates/ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022/<br>
