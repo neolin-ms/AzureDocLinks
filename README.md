@@ -1,7 +1,10 @@
 # AzureDocLinks
 
 ## Azure CLI
+Use Azure CLI effectively, https://docs.microsoft.com/en-us/cli/azure/use-cli-effectively<br>
 az ad sp, https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az_ad_sp_create<br>
+az network nsg, https://docs.microsoft.com/en-us/cli/azure/network/nsg?view=azure-cli-latest#commands<br>
+JMESPath Tutorial, https://jmespath.org/tutorial.html<br>
 
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
