@@ -77,6 +77,9 @@ NC-series Azure Virtual Machines will be retired by 31 August 2022, https://azur
 ## Azure Security Fundamentals
 Shared responsibility in the cloud, https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility<br>
 
+## Windows Blogs
+Announcing Windows 11 Insider Preview Build 22000.176, https://blogs.windows.com/windows-insider/2021/09/02/announcing-windows-11-insider-preview-build-22000-176/<br>
+
 ## Windows Server
 Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software#overview<br>
 Windows Server 2022 now generally available—delivers innovation in security, hybrid, and containers, https://cloudblogs.microsoft.com/windowsserver/2021/09/01/windows-server-2022-now-generally-available-delivers-innovation-in-security-hybrid-and-containers/<br>
