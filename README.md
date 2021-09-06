@@ -12,6 +12,11 @@ Use the portal to attach a data disk to a Linux VM, https://docs.microsoft.com/e
 Add a disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/add-disk<br>
 Resize an OS disk that has a GPT partition, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/resize-os-disk-gpt-partition<br>
 Stated and billing of Azure Virtual Machines, https://docs.microsoft.com/en-us/azure/virtual-machines/states-billing<br>
+Prepare a Windows VHD or VHDX to upload to Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image<br>
+Bringing and creating Linux images in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/imaging<br>
+Azure Image Builder overview, https://docs.microsoft.com/en-us/azure/virtual-machines/image-builder-overview<br>
+
+
 Expand a disk partition and filesystem - Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/expand-disks#expand-a-disk-partition-and-filesystem<br>
 How to create a Linux virtual machine in Azure with multiple network interface cards, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/multiple-nics?toc=/azure/virtual-network/toc.json<br>
 Log Analytics virtual machine extension for Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/oms-linux<br>
