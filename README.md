@@ -10,7 +10,6 @@ JMESPath Tutorial, https://jmespath.org/tutorial.html<br>
 Using a Service Principal to connect to a directory in PowerShell, https://docs.microsoft.com/en-us/powershell/azure/active-directory/signing-in-service-principal?view=azureadps-2.0<br>
 Create an Azure service principal with Azure PowerShell, https://docs.microsoft.com/en-us/powershell/azure/create-azure-service-principal-azureps?view=azps-6.3.0&viewFallbackFrom=azurermps-6.7.0<br>
 
-
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
 Use the portal to attach a data disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal<br>
@@ -151,6 +150,11 @@ How to reinstall Operations Management Suite (OMS) Agent for Linux, https://docs
 
 ## Azure Storage AzCopy
 AzCopy Releases, https://github.com/Azure/azure-storage-azcopy/releases<br>
+
+## AKS
+Tutorial: Prepare an application for Azure Kubernetes Service (AKS), https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app<br>
+Connect with SSH to Azure Kubernetes Service (AKS) cluster nodes for maintenance or troubleshooting, https://docs.microsoft.com/en-us/azure/aks/ssh<br>
+
 
 ## Microsoft Support
 UserVoice Pages, https://support.microsoft.com/en-us/office/uservoice-pages-430e1a78-e016-472a-a10f-dc2a3df3450a<br>
