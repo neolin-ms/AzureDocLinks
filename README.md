@@ -6,6 +6,11 @@ az ad sp, https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest
 az network nsg, https://docs.microsoft.com/en-us/cli/azure/network/nsg?view=azure-cli-latest#commands<br>
 JMESPath Tutorial, https://jmespath.org/tutorial.html<br>
 
+## Azure PowerShell
+Using a Service Principal to connect to a directory in PowerShell, https://docs.microsoft.com/en-us/powershell/azure/active-directory/signing-in-service-principal?view=azureadps-2.0<br>
+Create an Azure service principal with Azure PowerShell, https://docs.microsoft.com/en-us/powershell/azure/create-azure-service-principal-azureps?view=azps-6.3.0&viewFallbackFrom=azurermps-6.7.0<br>
+
+
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
 Use the portal to attach a data disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal<br>
@@ -15,12 +20,17 @@ Stated and billing of Azure Virtual Machines, https://docs.microsoft.com/en-us/a
 Prepare a Windows VHD or VHDX to upload to Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image<br>
 Bringing and creating Linux images in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/imaging<br>
 Azure Image Builder overview, https://docs.microsoft.com/en-us/azure/virtual-machines/image-builder-overview<br>
-
-
 Expand a disk partition and filesystem - Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/expand-disks#expand-a-disk-partition-and-filesystem<br>
 How to create a Linux virtual machine in Azure with multiple network interface cards, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/multiple-nics?toc=/azure/virtual-network/toc.json<br>
 Log Analytics virtual machine extension for Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/oms-linux<br>
 VMAccess Extension - Github, https://github.com/Azure/azure-linux-extensions/tree/master/VMAccess<br>
+
+## Azure Cloud Shell
+Cloud Shell overview, https://azure.microsoft.com/en-us/features/cloud-shell/#overview<br>
+Overview of Azure Cloud Shell, https://docs.microsoft.com/en-us/azure/cloud-shell/overview#concepts<br>
+Troubleshooting & Limitations of Azure Cloud Shell, https://docs.microsoft.com/en-us/azure/cloud-shell/troubleshooting<br>
+Quickstart for Bash in Azure Cloud Shell, https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart<br>
+Features & tools for Azure Cloud Shell, https://docs.microsoft.com/en-us/azure/cloud-shell/features<br>
 
 ## Azure Virtual Network
 Manage NICs, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface#create-a-network-interface<br>
@@ -60,6 +70,17 @@ How to troubleshoot issues with the Log Analytics agent for Linux, https://docs.
 ## Azure resources
 Virtual machines with Azure Backup, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-limitations/virtual-machines-move-limitations#virtual-machines-with-azure-backup<br>
 Subscription and service limits - Storage limits, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#storage-limits<br>
+
+## Azure Active Directory
+Use the portal to create an Azure AD application and service principal that can access resources, https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal<br>
+
+## Azure for Python developers
+Example: Use the Azure libraries to list resource groups and resources, https://docs.microsoft.com/en-us/azure/developer/python/azure-sdk-example-list-resource-groups<br>
+Configure your local Python dev environment for Azure, https://docs.microsoft.com/en-us/azure/developer/python/configure-local-development-environment?tabs=cmd<br>
+Azure Identity client library for Python - Version 1.6.1, https://docs.microsoft.com/en-us/python/api/overview/azure/identity-readme?view=azure-python<br>
+
+
+
 
 ## Azure Blog
 Cross-subscription disaster recovery for Azure virtual machines, https://azure.microsoft.com/en-us/blog/cross-subscription-dr/<br>
