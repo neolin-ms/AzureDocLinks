@@ -72,6 +72,7 @@ Subscription and service limits - Storage limits, https://docs.microsoft.com/en-
 
 ## Azure Active Directory
 Use the portal to create an Azure AD application and service principal that can access resources, https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal<br>
+Use the portal to create an Azure AD application and service principal that can access resources, https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal<br>
 
 ## Azure for Python developers
 Example: Use the Azure libraries to list resource groups and resources, https://docs.microsoft.com/en-us/azure/developer/python/azure-sdk-example-list-resource-groups<br>
@@ -147,6 +148,8 @@ A Linux VM does not start correctly with kernel 3.10.0-514.16 after an LIS upgra
 Chroot environment in a Linux Rescue VM, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/chroot-environment-linux#rhelcentos-7x-with-lvm<br>
 Troubleshoot Linux VM starting issues due to file system errors, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux-recovery-cannot-start-file-system-errors<br>
 How to reinstall Operations Management Suite (OMS) Agent for Linux, https://docs.microsoft.com/en-us/troubleshoot/azure/general/reinstall-oms-agent-linux<br>
+How to recover an Azure Linux virtual machine from kernel-related boot issues, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/kernel-related-boot-issues<br>
+
 
 ## Azure Storage AzCopy
 AzCopy Releases, https://github.com/Azure/azure-storage-azcopy/releases<br>
