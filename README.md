@@ -149,7 +149,7 @@ Chroot environment in a Linux Rescue VM, https://docs.microsoft.com/en-us/troubl
 Troubleshoot Linux VM starting issues due to file system errors, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux-recovery-cannot-start-file-system-errors<br>
 How to reinstall Operations Management Suite (OMS) Agent for Linux, https://docs.microsoft.com/en-us/troubleshoot/azure/general/reinstall-oms-agent-linux<br>
 How to recover an Azure Linux virtual machine from kernel-related boot issues, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/kernel-related-boot-issues<br>
-
+Support for Linux and open-source technology in Azure, https://docs.microsoft.com/en-US/troubleshoot/azure/cloud-services/support-linux-open-source-technology<br>
 
 ## Azure Storage AzCopy
 AzCopy Releases, https://github.com/Azure/azure-storage-azcopy/releases<br>
