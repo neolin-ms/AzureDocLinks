@@ -79,13 +79,9 @@ Example: Use the Azure libraries to list resource groups and resources, https://
 Configure your local Python dev environment for Azure, https://docs.microsoft.com/en-us/azure/developer/python/configure-local-development-environment?tabs=cmd<br>
 Azure Identity client library for Python - Version 1.6.1, https://docs.microsoft.com/en-us/python/api/overview/azure/identity-readme?view=azure-python<br>
 
-
-
-
 ## Azure Blog
 Cross-subscription disaster recovery for Azure virtual machines, https://azure.microsoft.com/en-us/blog/cross-subscription-dr/<br>
 Using VMAccess Extension to Reset Login Credentials, Add New User and Add SSH Key for Linux VM, https://azure.microsoft.com/en-us/blog/using-vmaccess-extension-to-reset-login-credentials-for-linux-vm/<br>
-
 
 ## Ansible on Azure
 Quickstart: Create an Azure service principal for Ansible, https://docs.microsoft.com/en-us/azure/developer/ansible/create-ansible-service-principal?tabs=azure-cli<br>
@@ -155,9 +151,14 @@ Support for Linux and open-source technology in Azure, https://docs.microsoft.co
 AzCopy Releases, https://github.com/Azure/azure-storage-azcopy/releases<br>
 
 ## AKS
+Configure an AKS cluster, https://docs.microsoft.com/en-us/azure/aks/cluster-configuration<br>
 Tutorial: Prepare an application for Azure Kubernetes Service (AKS), https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app<br>
 Connect with SSH to Azure Kubernetes Service (AKS) cluster nodes for maintenance or troubleshooting, https://docs.microsoft.com/en-us/azure/aks/ssh<br>
+Get kubelet logs from Azure Kubernetes Service (AKS) cluster nodes, https://docs.microsoft.com/en-us/azure/aks/kubelet-logs<br>
+Supported Kubernetes versions in Azure Kubernetes Service (AKS), https://docs.microsoft.com/en-us/azure/aks/supported-kubernetes-versions?tabs=azure-cli<br>
 
+## Azure Container Registry
+Push your first image to your Azure container registry using the Docker CLI, https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli?tabs=azure-cli<br>
 
 ## Microsoft Support
 UserVoice Pages, https://support.microsoft.com/en-us/office/uservoice-pages-430e1a78-e016-472a-a10f-dc2a3df3450a<br>
