@@ -160,12 +160,16 @@ Supported Kubernetes versions in Azure Kubernetes Service (AKS), https://docs.mi
 ## Azure Container Registry
 Push your first image to your Azure container registry using the Docker CLI, https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli?tabs=azure-cli<br>
 
+## Azure Latency Test - Azure Speed Test, https://www.azurespeed.com/Azure/Latency<br>
 ## Microsoft Support
 UserVoice Pages, https://support.microsoft.com/en-us/office/uservoice-pages-430e1a78-e016-472a-a10f-dc2a3df3450a<br>
 
 ## Microsoft Windows Command Line
 WSL 2 will be generally available in Windows 10, version 2004, https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/<br>
 Windows Command Line, https://devblogs.microsoft.com/commandline/<br>
+
+## Microsoft Container Registry
+Microsoft Container Registry (MCR), https://github.com/microsoft/containerregistry<br>
 
 ## stack overflow 
 How to find if a Virtual Machine is using managed/Unmanaged disks in Azure, https://stackoverflow.com/questions/43418208/how-to-find-if-a-virtual-machine-is-using-managed-unmanaged-disks-in-azure<br>
