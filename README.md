@@ -82,6 +82,7 @@ Azure Identity client library for Python - Version 1.6.1, https://docs.microsoft
 ## Azure Blog
 Cross-subscription disaster recovery for Azure virtual machines, https://azure.microsoft.com/en-us/blog/cross-subscription-dr/<br>
 Using VMAccess Extension to Reset Login Credentials, Add New User and Add SSH Key for Linux VM, https://azure.microsoft.com/en-us/blog/using-vmaccess-extension-to-reset-login-credentials-for-linux-vm/<br>
+“Secret” Agent Exposes Azure Customers To Unauthorized Code Execution, https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution<br>
 
 ## Ansible on Azure
 Quickstart: Create an Azure service principal for Ansible, https://docs.microsoft.com/en-us/azure/developer/ansible/create-ansible-service-principal?tabs=azure-cli<br>
@@ -116,6 +117,9 @@ Announcing Windows 11 Insider Preview Build 22000.176, https://blogs.windows.com
 Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software#overview<br>
 Windows Server 2022 now generally available—delivers innovation in security, hybrid, and containers, https://cloudblogs.microsoft.com/windowsserver/2021/09/01/windows-server-2022-now-generally-available-delivers-innovation-in-security-hybrid-and-containers/<br>
 Supported CentOS and Red Hat Enterprise Linux virtual machines on Hyper-V, https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/supported-centos-and-red-hat-enterprise-linux-virtual-machines-on-hyper-v<br>
+
+## Windows Hardware Develope and Windows Drivers
+Overview of Single Root I/O Virtualization (SR-IOV), https://docs.microsoft.com/en-us/windows-hardware/drivers/network/overview-of-single-root-i-o-virtualization--sr-iov-<br>
 
 ## Microsoft Tech Community
 Start VM on connect enters GA, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/start-vm-on-connect-enters-ga/m-p/2595282/thread-id/7570<br>
@@ -171,6 +175,9 @@ Windows Command Line, https://devblogs.microsoft.com/commandline/<br>
 ## Microsoft Container Registry
 Microsoft Container Registry (MCR), https://github.com/microsoft/containerregistry<br>
 
+## MSRC
+Open Management Infrastructure Remote Code Execution Vulnerability (CVE-2021-38647), https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-38647<br>
+
 ## stack overflow 
 How to find if a Virtual Machine is using managed/Unmanaged disks in Azure, https://stackoverflow.com/questions/43418208/how-to-find-if-a-virtual-machine-is-using-managed-unmanaged-disks-in-azure<br>
 Rabbit MQ support in Azure, https://stackoverflow.com/questions/64267768/rabbit-mq-support-in-azure<br>
@@ -181,3 +188,5 @@ Bitnami Support For Microsoft Azure, https://bitnami.com/support/azure<br>
 ## Useful tools 
 Qualys SSL Labs - SSL Server Test, https://www.ssllabs.com/ssltest/index.html<br>
 
+## Surface support
+What to do if Surface is running slower, https://support.microsoft.com/en-us/surface/what-to-do-if-surface-is-running-slower-54c567fc-76b0-ef86-aa9f-119ff07993f3<br>
