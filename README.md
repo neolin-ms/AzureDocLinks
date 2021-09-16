@@ -35,6 +35,8 @@ Features & tools for Azure Cloud Shell, https://docs.microsoft.com/en-us/azure/c
 Manage NICs, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface#create-a-network-interface<br>
 Add or remove network interfaces, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface-vm#before-you-begin<br>
 UnhandledError in Provision: No such file or directory '/etc/sysconfig/network-scripts/ifcfg-eth1' #1048, https://github.com/Azure/WALinuxAgent/issues/1048<br>
+Create a Linux virtual machine with Accelerated Networking using Azure CLI, https://docs.microsoft.com/en-us/azure/virtual-network/create-vm-accelerated-networking-cli<br>
+
 
 ## Azure Networking Firewall
 Use FQDN filtering in network rules, https://docs.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules<br>
@@ -150,6 +152,8 @@ Troubleshoot Linux VM starting issues due to file system errors, https://docs.mi
 How to reinstall Operations Management Suite (OMS) Agent for Linux, https://docs.microsoft.com/en-us/troubleshoot/azure/general/reinstall-oms-agent-linux<br>
 How to recover an Azure Linux virtual machine from kernel-related boot issues, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/kernel-related-boot-issues<br>
 Support for Linux and open-source technology in Azure, https://docs.microsoft.com/en-US/troubleshoot/azure/cloud-services/support-linux-open-source-technology<br>
+Detailed SSH troubleshooting steps for issues connecting to a Linux VM in Azure, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/detailed-troubleshoot-ssh-connection<br>
+
 
 ## Azure Storage AzCopy
 AzCopy Releases, https://github.com/Azure/azure-storage-azcopy/releases<br>
