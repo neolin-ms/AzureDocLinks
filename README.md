@@ -23,6 +23,8 @@ Expand a disk partition and filesystem - Linux, https://docs.microsoft.com/en-us
 How to create a Linux virtual machine in Azure with multiple network interface cards, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/multiple-nics?toc=/azure/virtual-network/toc.json<br>
 Log Analytics virtual machine extension for Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/oms-linux<br>
 VMAccess Extension - Github, https://github.com/Azure/azure-linux-extensions/tree/master/VMAccess<br>
+FAQ - Linux - What are the password requirements when creating a VM?, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/faq#what-are-the-password-requirements-when-creating-a-vm-<br>
+FQA - Windows - What are the password requirements when creating a VM?, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/faq#what-are-the-password-requirements-when-creating-a-vm-<br>
 
 ## Azure Cloud Shell
 Cloud Shell overview, https://azure.microsoft.com/en-us/features/cloud-shell/#overview<br>
