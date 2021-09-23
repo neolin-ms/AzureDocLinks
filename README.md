@@ -39,7 +39,6 @@ Add or remove network interfaces, https://docs.microsoft.com/en-us/azure/virtual
 UnhandledError in Provision: No such file or directory '/etc/sysconfig/network-scripts/ifcfg-eth1' #1048, https://github.com/Azure/WALinuxAgent/issues/1048<br>
 Create a Linux virtual machine with Accelerated Networking using Azure CLI, https://docs.microsoft.com/en-us/azure/virtual-network/create-vm-accelerated-networking-cli<br>
 
-
 ## Azure Networking Firewall
 Use FQDN filtering in network rules, https://docs.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules<br>
 
@@ -53,6 +52,9 @@ Security recommendations - a reference guide, https://docs.microsoft.com/en-us/a
 Trigger the security scan, https://github.com/MicrosoftDocs/azure-docs/issues/27496<br>
 Monitoring for new or changed resources, https://docs.microsoft.com/en-us/azure/security-center/security-center-planning-and-operations-guide#monitoring-for-new-or-changed-resources<br>
 How often does Security Center scan for operating system vulnerabilities, system updates, and endpoint protection issues?, https://docs.microsoft.com/en-us/azure/security-center/faq-vms#how-often-does-security-center-scan-for-operating-system-vulnerabilities--system-updates--and-endpoint-protection-issues-<br>
+
+## Microsoft Security Response Center
+Additional Guidance Regarding OMI Vulnerabilities within Azure VM Management Extensions, https://msrc-blog.microsoft.com/2021/09/16/additional-guidance-regarding-omi-vulnerabilities-within-azure-vm-management-extensions/<br>
 
 ## Azure Security Benchmark
 Vulnerability Management, https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-machines-linux-security-baseline#vulnerability-management<br>
@@ -155,7 +157,6 @@ How to reinstall Operations Management Suite (OMS) Agent for Linux, https://docs
 How to recover an Azure Linux virtual machine from kernel-related boot issues, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/kernel-related-boot-issues<br>
 Support for Linux and open-source technology in Azure, https://docs.microsoft.com/en-US/troubleshoot/azure/cloud-services/support-linux-open-source-technology<br>
 Detailed SSH troubleshooting steps for issues connecting to a Linux VM in Azure, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/detailed-troubleshoot-ssh-connection<br>
-
 
 ## Azure Storage AzCopy
 AzCopy Releases, https://github.com/Azure/azure-storage-azcopy/releases<br>
