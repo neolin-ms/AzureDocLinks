@@ -25,6 +25,7 @@ Log Analytics virtual machine extension for Linux, https://docs.microsoft.com/en
 VMAccess Extension - Github, https://github.com/Azure/azure-linux-extensions/tree/master/VMAccess<br>
 FAQ - Linux - What are the password requirements when creating a VM?, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/faq#what-are-the-password-requirements-when-creating-a-vm-<br>
 FQA - Windows - What are the password requirements when creating a VM?, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/faq#what-are-the-password-requirements-when-creating-a-vm-<br>
+Migrate your HB-series virtual machines by August 31, 2024, https://docs.microsoft.com/en-us/azure/virtual-machines/hb-series-retirement<br>
 
 ## Azure Cloud Shell
 Cloud Shell overview, https://azure.microsoft.com/en-us/features/cloud-shell/#overview<br>
@@ -136,6 +137,7 @@ Announcing Public Preview: Tool to migrate from Azure Virtual Desktop Classic to
 Windows Server 2022 Now Generally Available, https://techcommunity.microsoft.com/t5/containers/windows-server-2022-now-generally-available/ba-p/2689973<br>
 
 ## Troubleshoot
+Support for Linux and open-source technology in Azure, https://docs.microsoft.com/en-us/troubleshoot/azure/cloud-services/support-linux-open-source-technology<br>
 Troubleshoot a Windows VM by attaching the OS disk to a repair VM through the Azure portal, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/troubleshoot-recovery-disks-portal-windows<br>
 Unlocking an encrypted disk for offline repair, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/unlock-encrypted-disk-offline<br> 
 Confirm that ADE is enabled on the disk, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/unlock-encrypted-disk-offline#confirm-that-ade-is-enabled-on-the-disk<br>
