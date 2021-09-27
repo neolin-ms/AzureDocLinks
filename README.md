@@ -159,6 +159,13 @@ How to reinstall Operations Management Suite (OMS) Agent for Linux, https://docs
 How to recover an Azure Linux virtual machine from kernel-related boot issues, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/kernel-related-boot-issues<br>
 Support for Linux and open-source technology in Azure, https://docs.microsoft.com/en-US/troubleshoot/azure/cloud-services/support-linux-open-source-technology<br>
 Detailed SSH troubleshooting steps for issues connecting to a Linux VM in Azure, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/detailed-troubleshoot-ssh-connection<br>
+Troubleshooting a Linux VM when there is no access to the Azure serial console and the disk layout is using LVM (Logical Volume Manager), https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/chroot-logical-volume-manager<br>
+How to recover an Azure Linux virtual machine from kernel-related boot issues, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/kernel-related-boot-issues<br>
+Troubleshoot a Linux VM by attaching the OS disk to a recovery VM using the Azure portal, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/troubleshoot-recovery-disks-portal-linux<br>
+Repair a Linux VM by using the Azure Virtual Machine repair commands, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/repair-linux-vm-using-azure-virtual-machine-repair-commands<br>
+Use Azure Linux Auto Repair (ALAR) to fix a Linux VM, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/repair-linux-vm-using-alar<br>
+Use Azure Linux Auto Repair (ALAR) to fix a Linux VM, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/repair-linux-vm-using-alar<br>
+Tubleshoot a faulty Azure VM by using nested virtualization in Azure, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/troubleshoot-vm-by-use-nested-virtualization<br>
 
 ## Azure Storage AzCopy
 AzCopy Releases, https://github.com/Azure/azure-storage-azcopy/releases<br>
