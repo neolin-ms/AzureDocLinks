@@ -72,6 +72,7 @@ Azure Activity log, https://docs.microsoft.com/en-us/azure/azure-monitor/essenti
 Migrate from Log Analytics agents, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration<br> 
 How to troubleshoot issues with the Log Analytics agent for Linux, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot<br>
 How to troubleshoot issues with the Log Analytics agent for Linux, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot<br>
+Log Analytics tutorial, https://docs.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-tutorial<br>
 
 ## Azure resources
 Virtual machines with Azure Backup, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-limitations/virtual-machines-move-limitations#virtual-machines-with-azure-backup<br>
@@ -90,6 +91,12 @@ Azure Identity client library for Python - Version 1.6.1, https://docs.microsoft
 Cross-subscription disaster recovery for Azure virtual machines, https://azure.microsoft.com/en-us/blog/cross-subscription-dr/<br>
 Using VMAccess Extension to Reset Login Credentials, Add New User and Add SSH Key for Linux VM, https://azure.microsoft.com/en-us/blog/using-vmaccess-extension-to-reset-login-credentials-for-linux-vm/<br>
 “Secret” Agent Exposes Azure Customers To Unauthorized Code Execution, https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution<br>
+New Datadog integration with Azure offers a seamless configuration experience, https://azure.microsoft.com/en-us/blog/new-datadog-integration-with-azure-offers-a-seamless-configuration-experience/<br>
+Find High CPU Processes in Azure Log Analytics, https://www.cloudsma.com/2018/07/cpu-processes-azure-log-analytics/<br>
+Azure Log Analytics: Finding CPUs with perf counters, https://docs.microsoft.com/en-us/archive/blogs/ukhybridcloud/azure-log-analytics-finding-cpus-with-perf-counters<br>
+
+## Azure partner solutions
+What is Datadog?, https://docs.microsoft.com/en-us/azure/partner-solutions/datadog/overview<br>
 
 ## Ansible on Azure
 Quickstart: Create an Azure service principal for Ansible, https://docs.microsoft.com/en-us/azure/developer/ansible/create-ansible-service-principal?tabs=azure-cli<br>
@@ -110,6 +117,9 @@ Migrate automatically from Azure Virtual Desktop (classic) (preview), https://do
 Automation pricing, https://azure.microsoft.com/en-us/pricing/details/automation/<br>
 An introduction to Azure Automation, https://docs.microsoft.com/en-us/azure/automation/automation-intro<br>
 Configure Start/Stop VMs during off-hours, https://docs.microsoft.com/en-us/azure/automation/automation-solution-vm-management-config<br>
+
+## Azure Data Explorer
+Kusto query overview, https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/<br>
 
 ## Azure Updates
 NC-series Azure Virtual Machines will be retired by 31 August 2022, https://azure.microsoft.com/en-us/updates/ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022/<br>
