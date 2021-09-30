@@ -87,13 +87,14 @@ Example: Use the Azure libraries to list resource groups and resources, https://
 Configure your local Python dev environment for Azure, https://docs.microsoft.com/en-us/azure/developer/python/configure-local-development-environment?tabs=cmd<br>
 Azure Identity client library for Python - Version 1.6.1, https://docs.microsoft.com/en-us/python/api/overview/azure/identity-readme?view=azure-python<br>
 
-## Azure Blog
+## Azure Blog and updates
 Cross-subscription disaster recovery for Azure virtual machines, https://azure.microsoft.com/en-us/blog/cross-subscription-dr/<br>
 Using VMAccess Extension to Reset Login Credentials, Add New User and Add SSH Key for Linux VM, https://azure.microsoft.com/en-us/blog/using-vmaccess-extension-to-reset-login-credentials-for-linux-vm/<br>
 “Secret” Agent Exposes Azure Customers To Unauthorized Code Execution, https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution<br>
 New Datadog integration with Azure offers a seamless configuration experience, https://azure.microsoft.com/en-us/blog/new-datadog-integration-with-azure-offers-a-seamless-configuration-experience/<br>
 Find High CPU Processes in Azure Log Analytics, https://www.cloudsma.com/2018/07/cpu-processes-azure-log-analytics/<br>
 Azure Log Analytics: Finding CPUs with perf counters, https://docs.microsoft.com/en-us/archive/blogs/ukhybridcloud/azure-log-analytics-finding-cpus-with-perf-counters<br>
+Preparing for TLS 1.2 in Microsoft Azure, https://azure.microsoft.com/en-us/updates/azuretls12/<br>
 
 ## Azure partner solutions
 What is Datadog?, https://docs.microsoft.com/en-us/azure/partner-solutions/datadog/overview<br>
@@ -135,6 +136,8 @@ Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-
 Windows Server 2022 now generally available—delivers innovation in security, hybrid, and containers, https://cloudblogs.microsoft.com/windowsserver/2021/09/01/windows-server-2022-now-generally-available-delivers-innovation-in-security-hybrid-and-containers/<br>
 Supported CentOS and Red Hat Enterprise Linux virtual machines on Hyper-V, https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/supported-centos-and-red-hat-enterprise-linux-virtual-machines-on-hyper-v<br>
 
+## Windows Server - Windows Commands
+diskpart, https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart<br>
 ## Windows Hardware Develope and Windows Drivers
 Overview of Single Root I/O Virtualization (SR-IOV), https://docs.microsoft.com/en-us/windows-hardware/drivers/network/overview-of-single-root-i-o-virtualization--sr-iov-<br>
 
@@ -186,6 +189,9 @@ Tutorial: Prepare an application for Azure Kubernetes Service (AKS), https://doc
 Connect with SSH to Azure Kubernetes Service (AKS) cluster nodes for maintenance or troubleshooting, https://docs.microsoft.com/en-us/azure/aks/ssh<br>
 Get kubelet logs from Azure Kubernetes Service (AKS) cluster nodes, https://docs.microsoft.com/en-us/azure/aks/kubelet-logs<br>
 Supported Kubernetes versions in Azure Kubernetes Service (AKS), https://docs.microsoft.com/en-us/azure/aks/supported-kubernetes-versions?tabs=azure-cli<br>
+
+## Azure Site Recovery
+Enable protection failed as device name mentioned in the GRUB configuration instead of UUID (ErrorID: 95320), https://docs.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-push-install#enable-protection-failed-as-device-name-mentioned-in-the-grub-configuration-instead-of-uuid-errorid-95320<br>
 
 ## Azure Container Registry
 Push your first image to your Azure container registry using the Docker CLI, https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli?tabs=azure-cli<br>
