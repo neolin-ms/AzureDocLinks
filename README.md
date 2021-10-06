@@ -180,6 +180,10 @@ Use Azure Linux Auto Repair (ALAR) to fix a Linux VM, https://docs.microsoft.com
 Use Azure Linux Auto Repair (ALAR) to fix a Linux VM, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/repair-linux-vm-using-alar<br>
 Tubleshoot a faulty Azure VM by using nested virtualization in Azure, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/troubleshoot-vm-by-use-nested-virtualization<br>
 
+## Azure Storage
+Soft delete for blobs, https://docs.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-overview<br>
+Enable soft delete for blobs, https://docs.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-enable?tabs=azure-portal<br>
+
 ## Azure Storage AzCopy
 AzCopy Releases, https://github.com/Azure/azure-storage-azcopy/releases<br>
 
