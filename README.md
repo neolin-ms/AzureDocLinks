@@ -78,6 +78,9 @@ Log Analytics tutorial, https://docs.microsoft.com/en-us/azure/azure-monitor/log
 Virtual machines with Azure Backup, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-limitations/virtual-machines-move-limitations#virtual-machines-with-azure-backup<br>
 Subscription and service limits - Storage limits, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#storage-limits<br>
 
+## Azure Templates
+VMSS with Public IP Prefix, https://azure.microsoft.com/en-us/resources/templates/vmms-with-public-ip-prefix/<br>
+
 ## Azure Active Directory
 Use the portal to create an Azure AD application and service principal that can access resources, https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal<br>
 Use the portal to create an Azure AD application and service principal that can access resources, https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal<br>
