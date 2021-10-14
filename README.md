@@ -26,6 +26,7 @@ VMAccess Extension - Github, https://github.com/Azure/azure-linux-extensions/tre
 FAQ - Linux - What are the password requirements when creating a VM?, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/faq#what-are-the-password-requirements-when-creating-a-vm-<br>
 FQA - Windows - What are the password requirements when creating a VM?, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/faq#what-are-the-password-requirements-when-creating-a-vm-<br>
 Migrate your HB-series virtual machines by August 31, 2024, https://docs.microsoft.com/en-us/azure/virtual-machines/hb-series-retirement<br>
+Azure Instance Metadata Service (IMDS) - Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/instance-metadata-service?tabs=linux<br>
 
 ## Azure Cloud Shell
 Cloud Shell overview, https://azure.microsoft.com/en-us/features/cloud-shell/#overview<br>
@@ -42,6 +43,9 @@ Create a Linux virtual machine with Accelerated Networking using Azure CLI, http
 
 ## Azure Networking Firewall
 Use FQDN filtering in network rules, https://docs.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules<br>
+
+## Azure Networking Load Balancer
+Retrieve load balancer metadata using the Azure Instance Metadata Service (IMDS), https://docs.microsoft.com/en-us/azure/load-balancer/howto-load-balancer-imds?tabs=linux<br>
 
 ## Azure Secuirty Center
 Configure auto provisioning for agents and extensions from Azure Security Center, https://docs.microsoft.com/en-us/azure/security-center/security-center-enable-data-collection<br>
