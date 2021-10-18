@@ -226,6 +226,10 @@ Microsoft Container Registry (MCR), https://github.com/microsoft/containerregist
 ## MSRC
 Open Management Infrastructure Remote Code Execution Vulnerability (CVE-2021-38647), https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-38647<br>
 
+## azure-content
+Configure LVM on a Linux VM in Azure, https://github.com/uglide/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-configure-lvm.md<br>
+
+
 ## stack overflow 
 How to find if a Virtual Machine is using managed/Unmanaged disks in Azure, https://stackoverflow.com/questions/43418208/how-to-find-if-a-virtual-machine-is-using-managed-unmanaged-disks-in-azure<br>
 Rabbit MQ support in Azure, https://stackoverflow.com/questions/64267768/rabbit-mq-support-in-azure<br>
