@@ -27,6 +27,8 @@ FAQ - Linux - What are the password requirements when creating a VM?, https://do
 FQA - Windows - What are the password requirements when creating a VM?, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/faq#what-are-the-password-requirements-when-creating-a-vm-<br>
 Migrate your HB-series virtual machines by August 31, 2024, https://docs.microsoft.com/en-us/azure/virtual-machines/hb-series-retirement<br>
 Azure Instance Metadata Service (IMDS) - Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/instance-metadata-service?tabs=linux<br>
+Issues using VM extensions in Python 3-enabled Linux Azure Virtual Machines systems, https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/issues-using-vm-extensions-python-3<br>
+
 
 ## Azure Virtual Machines Workloads - Red Hat
 Red Hat Enterprise Linux bring-your-own-subscription Gold Images in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/redhat/byos<br>
@@ -82,6 +84,10 @@ Migrate from Log Analytics agents, https://docs.microsoft.com/en-us/azure/azure-
 How to troubleshoot issues with the Log Analytics agent for Linux, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot<br>
 How to troubleshoot issues with the Log Analytics agent for Linux, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot<br>
 Log Analytics tutorial, https://docs.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-tutorial<br>
+How to troubleshoot issues with the Log Analytics agent for Linux, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot#log-analytics-troubleshooting-tool<br>
+OMS Linux Agent Log Collector, https://github.com/Microsoft/OMS-Agent-for-Linux/blob/master/tools/LogCollector/OMS_Linux_Agent_Log_Collector.md<br>
+Troubleshooting Tool for OMS Agent for Linux, https://github.com/microsoft/OMS-Agent-for-Linux/blob/master/docs/Troubleshooting-Tool.md<br>
+Install Log Analytics agent on Linux computers, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux<br>
 
 ## Azure resources
 Virtual machines with Azure Backup, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-limitations/virtual-machines-move-limitations#virtual-machines-with-azure-backup<br>
@@ -142,6 +148,8 @@ Shared responsibility in the cloud, https://docs.microsoft.com/en-us/azure/secur
 
 ## Windows Blogs
 Announcing Windows 11 Insider Preview Build 22000.176, https://blogs.windows.com/windows-insider/2021/09/02/announcing-windows-11-insider-preview-build-22000-176/<br>
+Windows 7 support ended on January 14, 2020, https://support.microsoft.com/en-us/windows/windows-7-support-ended-on-january-14-2020-b75d4580-2cc7-895a-2c9c-1466d9a53962<br>
+
 
 ## Windows Server
 Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software#overview<br>
@@ -197,8 +205,7 @@ Use Azure Linux Auto Repair (ALAR) to fix a Linux VM, https://docs.microsoft.com
 Tubleshoot a faulty Azure VM by using nested virtualization in Azure, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/troubleshoot-vm-by-use-nested-virtualization<br>
 Troubleshoot Azure Virtual Machines boot errors, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/boot-error-troubleshoot<br>
 Troubleshoot Azure Linux Virtual Machines boot errors, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/boot-error-troubleshoot-linux<br>
-
-
+Frequently asked questions about the Windows 7 end of support, https://docs.microsoft.com/en-us/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq-general<br>
 
 ## Azure Storage
 Soft delete for blobs, https://docs.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-overview<br>
