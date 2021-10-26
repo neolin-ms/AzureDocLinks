@@ -28,7 +28,8 @@ FQA - Windows - What are the password requirements when creating a VM?, https://
 Migrate your HB-series virtual machines by August 31, 2024, https://docs.microsoft.com/en-us/azure/virtual-machines/hb-series-retirement<br>
 Azure Instance Metadata Service (IMDS) - Linux, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/instance-metadata-service?tabs=linux<br>
 Issues using VM extensions in Python 3-enabled Linux Azure Virtual Machines systems, https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/issues-using-vm-extensions-python-3<br>
-
+Move a VM to another subscription or resource group, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/move-vm<br>
+Move a Windows VM to another Azure subscription or resource group, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm<br>
 
 ## Azure Virtual Machines Workloads - Red Hat
 Red Hat Enterprise Linux bring-your-own-subscription Gold Images in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/redhat/byos<br>
