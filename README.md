@@ -90,12 +90,19 @@ OMS Linux Agent Log Collector, https://github.com/Microsoft/OMS-Agent-for-Linux/
 Troubleshooting Tool for OMS Agent for Linux, https://github.com/microsoft/OMS-Agent-for-Linux/blob/master/docs/Troubleshooting-Tool.md<br>
 Install Log Analytics agent on Linux computers, https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux<br>
 
+## Azure REST API
+Azure REST API reference, https://docs.microsoft.com/en-us/rest/api/azure/<br>
+Azure REST API Specifications, https://github.com/Azure/azure-rest-api-specs<br>
+
 ## Azure resources
 Virtual machines with Azure Backup, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-limitations/virtual-machines-move-limitations#virtual-machines-with-azure-backup<br>
 Subscription and service limits - Storage limits, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#storage-limits<br>
 
 ## Azure Templates
 VMSS with Public IP Prefix, https://azure.microsoft.com/en-us/resources/templates/vmms-with-public-ip-prefix/<br>
+
+## Azure Backup
+Back up and restore encrypted Azure virtual machines, https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-encryption<br>
 
 ## Azure Active Directory
 Use the portal to create an Azure AD application and service principal that can access resources, https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal<br>
@@ -224,6 +231,9 @@ Supported Kubernetes versions in Azure Kubernetes Service (AKS), https://docs.mi
 
 ## Azure Site Recovery
 Enable protection failed as device name mentioned in the GRUB configuration instead of UUID (ErrorID: 95320), https://docs.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-push-install#enable-protection-failed-as-device-name-mentioned-in-the-grub-configuration-instead-of-uuid-errorid-95320<br>
+VMware to Azure disaster recovery architecture - Classic, https://docs.microsoft.com/en-us/azure/site-recovery/vmware-azure-architecture<br>
+About the Mobility service for VMware VMs and physical servers, https://docs.microsoft.com/en-us/azure/site-recovery/vmware-physical-mobility-service-overview<br>
+
 
 ## Azure Container Registry
 Push your first image to your Azure container registry using the Docker CLI, https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli?tabs=azure-cli<br>
