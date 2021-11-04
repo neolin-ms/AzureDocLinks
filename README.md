@@ -5,6 +5,7 @@ Use Azure CLI effectively, https://docs.microsoft.com/en-us/cli/azure/use-cli-ef
 az ad sp, https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az_ad_sp_create<br>
 az network nsg, https://docs.microsoft.com/en-us/cli/azure/network/nsg?view=azure-cli-latest#commands<br>
 JMESPath Tutorial, https://jmespath.org/tutorial.html<br>
+az account list-locations, https://docs.microsoft.com/en-us/cli/azure/account?view=azure-cli-latest#az_account_list_locations<br>
 
 ## Azure PowerShell
 Using a Service Principal to connect to a directory in PowerShell, https://docs.microsoft.com/en-us/powershell/azure/active-directory/signing-in-service-principal?view=azureadps-2.0<br>
@@ -93,6 +94,7 @@ Install Log Analytics agent on Linux computers, https://docs.microsoft.com/en-us
 ## Azure REST API
 Azure REST API reference, https://docs.microsoft.com/en-us/rest/api/azure/<br>
 Azure REST API Specifications, https://github.com/Azure/azure-rest-api-specs<br>
+Subscriptions - List Locations, https://docs.microsoft.com/en-us/rest/api/resources/subscriptions/list-locations<br>
 
 ## Azure resources
 Virtual machines with Azure Backup, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-limitations/virtual-machines-move-limitations#virtual-machines-with-azure-backup<br>
