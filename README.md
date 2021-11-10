@@ -31,6 +31,7 @@ Azure Instance Metadata Service (IMDS) - Linux, https://docs.microsoft.com/en-us
 Issues using VM extensions in Python 3-enabled Linux Azure Virtual Machines systems, https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/issues-using-vm-extensions-python-3<br>
 Move a VM to another subscription or resource group, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/move-vm<br>
 Move a Windows VM to another Azure subscription or resource group, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm<br>
+Time sync for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/time-sync<br>
 
 ## Azure Virtual Machines Workloads - Red Hat
 Red Hat Enterprise Linux bring-your-own-subscription Gold Images in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/redhat/byos<br>
