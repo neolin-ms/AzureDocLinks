@@ -147,6 +147,12 @@ Migrate automatically from Azure Virtual Desktop (classic) (preview), https://do
 Automation pricing, https://azure.microsoft.com/en-us/pricing/details/automation/<br>
 An introduction to Azure Automation, https://docs.microsoft.com/en-us/azure/automation/automation-intro<br>
 Configure Start/Stop VMs during off-hours, https://docs.microsoft.com/en-us/azure/automation/automation-solution-vm-management-config<br>
+Update Management overview, https://docs.microsoft.com/en-us/azure/automation/update-management/overview<br>
+Manage updates and patches for your VMs, https://docs.microsoft.com/en-us/azure/automation/update-management/manage-updates-for-vm<br>
+Enable Update Management from an Azure VM, https://docs.microsoft.com/en-us/azure/automation/update-management/enable-from-vm<br>
+How to deploy updates and review results, https://docs.microsoft.com/en-us/azure/automation/update-management/deploy-updates<br>
+Plan your Update Management deployment, https://docs.microsoft.com/en-us/azure/automation/update-management/plan-deployment<br>
+Query Update Management logs, https://docs.microsoft.com/en-us/azure/automation/update-management/query-logs<br>
 
 ## Azure Data Explorer
 Kusto query overview, https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/<br>
