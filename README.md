@@ -185,6 +185,7 @@ Calculate the size/capacity of storage account and it services (Blob/Table), htt
 Security Control: Remediate Security Configurations, https://techcommunity.microsoft.com/t5/azure-security-center/security-control-remediate-security-configurations/ba-p/1946319<br>
 Announcing Public Preview: Tool to migrate from Azure Virtual Desktop Classic to ARM, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/announcing-public-preview-tool-to-migrate-from-azure-virtual/m-p/2708431#M7774<br>
 Windows Server 2022 Now Generally Available, https://techcommunity.microsoft.com/t5/containers/windows-server-2022-now-generally-available/ba-p/2689973<br>
+Azure Disk Encryption - Not applicable resources, https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-disk-encryption-not-applicable-resources/m-p/2058338<br>
 
 ## Troubleshoot
 Support for Linux and open-source technology in Azure, https://docs.microsoft.com/en-us/troubleshoot/azure/cloud-services/support-linux-open-source-technology<br>
