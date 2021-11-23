@@ -32,6 +32,8 @@ Issues using VM extensions in Python 3-enabled Linux Azure Virtual Machines syst
 Move a VM to another subscription or resource group, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/move-vm<br>
 Move a Windows VM to another Azure subscription or resource group, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm<br>
 Time sync for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/time-sync<br>
+RHEL/Centos/Oracle 6.x && Oracle 8.x && RHEL/Centos 7.x with RAW Partitions(nouuid), https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/chroot-environment-linux#rhelcentosoracle-6x--oracle-8x--rhelcentos-7x-with-raw-partitions<br>
+
 
 ## Azure Virtual Machines Workloads - Red Hat
 Red Hat Enterprise Linux bring-your-own-subscription Gold Images in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/redhat/byos<br>
