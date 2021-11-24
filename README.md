@@ -11,6 +11,11 @@ az account list-locations, https://docs.microsoft.com/en-us/cli/azure/account?vi
 Using a Service Principal to connect to a directory in PowerShell, https://docs.microsoft.com/en-us/powershell/azure/active-directory/signing-in-service-principal?view=azureadps-2.0<br>
 Create an Azure service principal with Azure PowerShell, https://docs.microsoft.com/en-us/powershell/azure/create-azure-service-principal-azureps?view=azps-6.3.0&viewFallbackFrom=azurermps-6.7.0<br>
 
+## Azure Kubernetes Service
+About AKS, https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes<br>
+Azure Kubernetes Service (AKS) Uptime SLA, https://docs.microsoft.com/en-us/azure/aks/uptime-sla<br>
+
+
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
 Use the portal to attach a data disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal<br>
