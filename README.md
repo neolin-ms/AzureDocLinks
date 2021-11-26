@@ -15,7 +15,6 @@ Create an Azure service principal with Azure PowerShell, https://docs.microsoft.
 About AKS, https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes<br>
 Azure Kubernetes Service (AKS) Uptime SLA, https://docs.microsoft.com/en-us/azure/aks/uptime-sla<br>
 
-
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
 Use the portal to attach a data disk to a Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal<br>
@@ -38,7 +37,8 @@ Move a VM to another subscription or resource group, https://docs.microsoft.com/
 Move a Windows VM to another Azure subscription or resource group, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm<br>
 Time sync for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/time-sync<br>
 RHEL/Centos/Oracle 6.x && Oracle 8.x && RHEL/Centos 7.x with RAW Partitions(nouuid), https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/chroot-environment-linux#rhelcentosoracle-6x--oracle-8x--rhelcentos-7x-with-raw-partitions<br>
-
+ADE - Additional VM requirements, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview#additional-vm-requirements<br>
+Configure LVM and RAID on encrypted devices, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/how-to-configure-lvm-raid-on-crypt<br>
 
 ## Azure Virtual Machines Workloads - Red Hat
 Red Hat Enterprise Linux bring-your-own-subscription Gold Images in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/redhat/byos<br>
@@ -193,6 +193,8 @@ Security Control: Remediate Security Configurations, https://techcommunity.micro
 Announcing Public Preview: Tool to migrate from Azure Virtual Desktop Classic to ARM, https://techcommunity.microsoft.com/t5/azure-virtual-desktop/announcing-public-preview-tool-to-migrate-from-azure-virtual/m-p/2708431#M7774<br>
 Windows Server 2022 Now Generally Available, https://techcommunity.microsoft.com/t5/containers/windows-server-2022-now-generally-available/ba-p/2689973<br>
 Azure Disk Encryption - Not applicable resources, https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-disk-encryption-not-applicable-resources/m-p/2058338<br>
+Generate Image from encrypted CentOS 7.5 VM?, https://social.msdn.microsoft.com/Forums/en-US/b64337c0-b46e-4ed1-ac7c-bf699102990f/generate-image-from-encrypted-centos-75-vm?forum=AzureDiskEncryption<br> 
+
 
 ## Troubleshoot
 Support for Linux and open-source technology in Azure, https://docs.microsoft.com/en-us/troubleshoot/azure/cloud-services/support-linux-open-source-technology<br>
