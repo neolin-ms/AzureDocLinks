@@ -14,6 +14,7 @@ Create an Azure service principal with Azure PowerShell, https://docs.microsoft.
 ## Azure Kubernetes Service
 About AKS, https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes<br>
 Azure Kubernetes Service (AKS) Uptime SLA, https://docs.microsoft.com/en-us/azure/aks/uptime-sla<br>
+Support policies for Azure Kubernetes Service, https://docs.microsoft.com/en-us/azure/aks/support-policies<br>
 
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
@@ -39,6 +40,7 @@ Time sync for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual
 RHEL/Centos/Oracle 6.x && Oracle 8.x && RHEL/Centos 7.x with RAW Partitions(nouuid), https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/chroot-environment-linux#rhelcentosoracle-6x--oracle-8x--rhelcentos-7x-with-raw-partitions<br>
 ADE - Additional VM requirements, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview#additional-vm-requirements<br>
 Configure LVM and RAID on encrypted devices, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/how-to-configure-lvm-raid-on-crypt<br>
+Ephemeral OS disks for Azure VMs, https://docs.microsoft.com/en-us/azure/virtual-machines/ephemeral-os-disks<br>
 
 ## Azure Virtual Machines Workloads - Red Hat
 Red Hat Enterprise Linux bring-your-own-subscription Gold Images in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/redhat/byos<br>
