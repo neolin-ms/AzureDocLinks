@@ -105,6 +105,7 @@ Install Log Analytics agent on Linux computers, https://docs.microsoft.com/en-us
 Azure REST API reference, https://docs.microsoft.com/en-us/rest/api/azure/<br>
 Azure REST API Specifications, https://github.com/Azure/azure-rest-api-specs<br>
 Subscriptions - List Locations, https://docs.microsoft.com/en-us/rest/api/resources/subscriptions/list-locations<br>
+Virtual Machine - Create Or Update, https://docs.microsoft.com/en-us/rest/api/compute/virtual-machines/create-or-update#osprofile<br>
 
 ## Azure resources
 Virtual machines with Azure Backup, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-limitations/virtual-machines-move-limitations#virtual-machines-with-azure-backup<br>
