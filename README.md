@@ -6,6 +6,7 @@ az ad sp, https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest
 az network nsg, https://docs.microsoft.com/en-us/cli/azure/network/nsg?view=azure-cli-latest#commands<br>
 JMESPath Tutorial, https://jmespath.org/tutorial.html<br>
 az account list-locations, https://docs.microsoft.com/en-us/cli/azure/account?view=azure-cli-latest#az_account_list_locations<br>
+How to query Azure resources using the Azure CLI, https://argonsys.com/microsoft-cloud/library/how-to-query-azure-resources-using-the-azure-cli/<br>
 
 ## Azure PowerShell
 Using a Service Principal to connect to a directory in PowerShell, https://docs.microsoft.com/en-us/powershell/azure/active-directory/signing-in-service-principal?view=azureadps-2.0<br>
