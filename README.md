@@ -60,6 +60,7 @@ Manage NICs, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-netw
 Add or remove network interfaces, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface-vm#before-you-begin<br>
 UnhandledError in Provision: No such file or directory '/etc/sysconfig/network-scripts/ifcfg-eth1' #1048, https://github.com/Azure/WALinuxAgent/issues/1048<br>
 Create a Linux virtual machine with Accelerated Networking using Azure CLI, https://docs.microsoft.com/en-us/azure/virtual-network/create-vm-accelerated-networking-cli<br>
+Throughout testing - Bandwidth/Throughout testing(NTTTCP), https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-bandwidth-testing<br>  
 
 ## Azure Networking Firewall
 Use FQDN filtering in network rules, https://docs.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules<br>
