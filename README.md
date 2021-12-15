@@ -136,6 +136,7 @@ New Datadog integration with Azure offers a seamless configuration experience, h
 Find High CPU Processes in Azure Log Analytics, https://www.cloudsma.com/2018/07/cpu-processes-azure-log-analytics/<br>
 Azure Log Analytics: Finding CPUs with perf counters, https://docs.microsoft.com/en-us/archive/blogs/ukhybridcloud/azure-log-analytics-finding-cpus-with-perf-counters<br>
 Preparing for TLS 1.2 in Microsoft Azure, https://azure.microsoft.com/en-us/updates/azuretls12/<br>
+Restart a node in AKS, https://pumpingco.de/blog/restart-a-node-in-aks/<br>
 
 ## Azure partner solutions
 What is Datadog?, https://docs.microsoft.com/en-us/azure/partner-solutions/datadog/overview<br>
@@ -178,7 +179,6 @@ Shared responsibility in the cloud, https://docs.microsoft.com/en-us/azure/secur
 ## Windows Blogs
 Announcing Windows 11 Insider Preview Build 22000.176, https://blogs.windows.com/windows-insider/2021/09/02/announcing-windows-11-insider-preview-build-22000-176/<br>
 Windows 7 support ended on January 14, 2020, https://support.microsoft.com/en-us/windows/windows-7-support-ended-on-january-14-2020-b75d4580-2cc7-895a-2c9c-1466d9a53962<br>
-
 
 ## Windows Server
 Linux Software Repository for Microsoft Products, https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software#overview<br>
