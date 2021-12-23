@@ -79,6 +79,9 @@ Trigger the security scan, https://github.com/MicrosoftDocs/azure-docs/issues/27
 Monitoring for new or changed resources, https://docs.microsoft.com/en-us/azure/security-center/security-center-planning-and-operations-guide#monitoring-for-new-or-changed-resources<br>
 How often does Security Center scan for operating system vulnerabilities, system updates, and endpoint protection issues?, https://docs.microsoft.com/en-us/azure/security-center/faq-vms#how-often-does-security-center-scan-for-operating-system-vulnerabilities--system-updates--and-endpoint-protection-issues-<br>
 
+## Microsoft Q&A
+SLES 15 SP1 Repositories, https://docs.microsoft.com/en-us/answers/questions/456375/sles-15-sp1-repositories.html<br>
+
 ## Microsoft Security Response Center
 Additional Guidance Regarding OMI Vulnerabilities within Azure VM Management Extensions, https://msrc-blog.microsoft.com/2021/09/16/additional-guidance-regarding-omi-vulnerabilities-within-azure-vm-management-extensions/<br>
 
