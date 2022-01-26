@@ -18,6 +18,7 @@ Create an Azure service principal with Azure PowerShell, https://docs.microsoft.
 
 ## Azure Kubernetes Service
 About AKS, https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes<br>
+Github - Azure/AKS, https://github.com/Azure/AKS<br>
 Azure Kubernetes Service (AKS) Uptime SLA, https://docs.microsoft.com/en-us/azure/aks/uptime-sla<br>
 Support policies for Azure Kubernetes Service, https://docs.microsoft.com/en-us/azure/aks/support-policies<br>
 Connect with SSH to Azure Kubernetes Service (AKS) cluster nodes for maintenance or troubleshooting, https://docs.microsoft.com/en-us/azure/aks/ssh<br>
