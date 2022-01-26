@@ -1,5 +1,9 @@
 # AzureDocLinks
 
+## Azure Share your Ideas / Feature request
+Give us your ideas, https://feedback.azure.com/d365community/<br>
+Issues - Azure/AKS, https://github.com/Azure/AKS/issues<br>
+
 ## Azure CLI
 Use Azure CLI effectively, https://docs.microsoft.com/en-us/cli/azure/use-cli-effectively<br>
 az ad sp, https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az_ad_sp_create<br>
@@ -142,6 +146,7 @@ Find High CPU Processes in Azure Log Analytics, https://www.cloudsma.com/2018/07
 Azure Log Analytics: Finding CPUs with perf counters, https://docs.microsoft.com/en-us/archive/blogs/ukhybridcloud/azure-log-analytics-finding-cpus-with-perf-counters<br>
 Preparing for TLS 1.2 in Microsoft Azure, https://azure.microsoft.com/en-us/updates/azuretls12/<br>
 Restart a node in AKS, https://pumpingco.de/blog/restart-a-node-in-aks/<br>
+Azure Latency Test - Azure Speed Test, https://www.azurespeed.com/Azure/Latency<br>
 
 ## Azure partner solutions
 What is Datadog?, https://docs.microsoft.com/en-us/azure/partner-solutions/datadog/overview<br>
@@ -192,6 +197,7 @@ Supported CentOS and Red Hat Enterprise Linux virtual machines on Hyper-V, https
 
 ## Windows Server - Windows Commands
 diskpart, https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart<br>
+
 ## Windows Hardware Develope and Windows Drivers
 Overview of Single Root I/O Virtualization (SR-IOV), https://docs.microsoft.com/en-us/windows-hardware/drivers/network/overview-of-single-root-i-o-virtualization--sr-iov-<br>
 
@@ -204,7 +210,6 @@ Announcing Public Preview: Tool to migrate from Azure Virtual Desktop Classic to
 Windows Server 2022 Now Generally Available, https://techcommunity.microsoft.com/t5/containers/windows-server-2022-now-generally-available/ba-p/2689973<br>
 Azure Disk Encryption - Not applicable resources, https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-disk-encryption-not-applicable-resources/m-p/2058338<br>
 Generate Image from encrypted CentOS 7.5 VM?, https://social.msdn.microsoft.com/Forums/en-US/b64337c0-b46e-4ed1-ac7c-bf699102990f/generate-image-from-encrypted-centos-75-vm?forum=AzureDiskEncryption<br> 
-
 
 ## Troubleshoot
 Support for Linux and open-source technology in Azure, https://docs.microsoft.com/en-us/troubleshoot/azure/cloud-services/support-linux-open-source-technology<br>
@@ -263,11 +268,10 @@ Enable protection failed as device name mentioned in the GRUB configuration inst
 VMware to Azure disaster recovery architecture - Classic, https://docs.microsoft.com/en-us/azure/site-recovery/vmware-azure-architecture<br>
 About the Mobility service for VMware VMs and physical servers, https://docs.microsoft.com/en-us/azure/site-recovery/vmware-physical-mobility-service-overview<br>
 
-
 ## Azure Container Registry
 Push your first image to your Azure container registry using the Docker CLI, https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli?tabs=azure-cli<br>
 
-## Azure Latency Test - Azure Speed Test, https://www.azurespeed.com/Azure/Latency<br>
+Azure Latency Test - Azure Speed Test, https://www.azurespeed.com/Azure/Latency<br>
 ## Microsoft Support
 UserVoice Pages, https://support.microsoft.com/en-us/office/uservoice-pages-430e1a78-e016-472a-a10f-dc2a3df3450a<br>
 
@@ -283,7 +287,6 @@ Open Management Infrastructure Remote Code Execution Vulnerability (CVE-2021-386
 
 ## azure-content
 Configure LVM on a Linux VM in Azure, https://github.com/uglide/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-configure-lvm.md<br>
-
 
 ## stack overflow 
 How to find if a Virtual Machine is using managed/Unmanaged disks in Azure, https://stackoverflow.com/questions/43418208/how-to-find-if-a-virtual-machine-is-using-managed-unmanaged-disks-in-azure<br>
