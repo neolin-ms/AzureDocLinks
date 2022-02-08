@@ -212,6 +212,9 @@ Windows Server 2022 Now Generally Available, https://techcommunity.microsoft.com
 Azure Disk Encryption - Not applicable resources, https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/azure-disk-encryption-not-applicable-resources/m-p/2058338<br>
 Generate Image from encrypted CentOS 7.5 VM?, https://social.msdn.microsoft.com/Forums/en-US/b64337c0-b46e-4ed1-ac7c-bf699102990f/generate-image-from-encrypted-centos-75-vm?forum=AzureDiskEncryption<br> 
 
+## Microsoft TechNet
+Azure REST API: How To Create Bearer Token, https://social.technet.microsoft.com/wiki/contents/articles/53488.azure-rest-api-how-to-create-bearer-token.aspx<br>
+
 ## Troubleshoot
 Support for Linux and open-source technology in Azure, https://docs.microsoft.com/en-us/troubleshoot/azure/cloud-services/support-linux-open-source-technology<br>
 Understand a system reboot for Azure VM, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/understand-vm-reboot<br>
