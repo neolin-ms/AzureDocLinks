@@ -88,6 +88,7 @@ How often does Security Center scan for operating system vulnerabilities, system
 
 ## Microsoft Q&A
 SLES 15 SP1 Repositories, https://docs.microsoft.com/en-us/answers/questions/456375/sles-15-sp1-repositories.html<br>
+Kubernetes storage class for blob storage (AZURE storage account), https://docs.microsoft.com/en-us/answers/questions/132071/kubernetes-storage-class-for-blob-storage-azure-st.html<br>
 
 ## Microsoft Security Response Center
 Additional Guidance Regarding OMI Vulnerabilities within Azure VM Management Extensions, https://msrc-blog.microsoft.com/2021/09/16/additional-guidance-regarding-omi-vulnerabilities-within-azure-vm-management-extensions/<br>
@@ -148,6 +149,7 @@ Azure Log Analytics: Finding CPUs with perf counters, https://docs.microsoft.com
 Preparing for TLS 1.2 in Microsoft Azure, https://azure.microsoft.com/en-us/updates/azuretls12/<br>
 Restart a node in AKS, https://pumpingco.de/blog/restart-a-node-in-aks/<br>
 Azure Latency Test - Azure Speed Test, https://www.azurespeed.com/Azure/Latency<br>
+Mounting Azure Files and Blobs using Non-traditional options in Kubernetes, https://medium.com/codex/mounting-azure-files-and-blobs-using-non-traditional-options-in-kubernetes-e12b1522f14f<br>
 
 ## Azure partner solutions
 What is Datadog?, https://docs.microsoft.com/en-us/azure/partner-solutions/datadog/overview<br>
