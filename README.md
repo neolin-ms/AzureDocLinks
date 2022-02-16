@@ -152,6 +152,11 @@ Azure Latency Test - Azure Speed Test, https://www.azurespeed.com/Azure/Latency<
 Mounting Azure Files and Blobs using Non-traditional options in Kubernetes, https://medium.com/codex/mounting-azure-files-and-blobs-using-non-traditional-options-in-kubernetes-e12b1522f14f<br>
 How to faster Node Scale your Kubernetes cluster, https://itnext.io/how-to-faster-node-scale-your-kubernetes-cluster-2c988c7c7d08<br>
 
+## YouTube
+Microsoft Cloud Native Global Black Belt, https://www.youtube.com/c/AzureGlobalBlackBelt/videos<br>
+John Savill's Technical Training, https://www.youtube.com/c/NTFAQGuy<br>
+Houssem Dellai, https://www.youtube.com/channel/UCCYR9GpcE3skVnyMU8Wx1kQ<br>
+
 ## Azure partner solutions
 What is Datadog?, https://docs.microsoft.com/en-us/azure/partner-solutions/datadog/overview<br>
 
