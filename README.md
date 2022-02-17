@@ -151,6 +151,7 @@ Restart a node in AKS, https://pumpingco.de/blog/restart-a-node-in-aks/<br>
 Azure Latency Test - Azure Speed Test, https://www.azurespeed.com/Azure/Latency<br>
 Mounting Azure Files and Blobs using Non-traditional options in Kubernetes, https://medium.com/codex/mounting-azure-files-and-blobs-using-non-traditional-options-in-kubernetes-e12b1522f14f<br>
 How to faster Node Scale your Kubernetes cluster, https://itnext.io/how-to-faster-node-scale-your-kubernetes-cluster-2c988c7c7d08<br>
+CNI Benchmark: Understanding Cilium Network Performance, https://cilium.io/blog/2021/05/11/cni-benchmark<br>
 
 ## YouTube
 Microsoft Cloud Native Global Black Belt, https://www.youtube.com/c/AzureGlobalBlackBelt/videos<br>
