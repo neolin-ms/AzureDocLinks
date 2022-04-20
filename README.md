@@ -16,6 +16,10 @@ How to query Azure resources using the Azure CLI, https://argonsys.com/microsoft
 Using a Service Principal to connect to a directory in PowerShell, https://docs.microsoft.com/en-us/powershell/azure/active-directory/signing-in-service-principal?view=azureadps-2.0<br>
 Create an Azure service principal with Azure PowerShell, https://docs.microsoft.com/en-us/powershell/azure/create-azure-service-principal-azureps?view=azps-6.3.0&viewFallbackFrom=azurermps-6.7.0<br>
 
+## Microsoft Azure - Open Source
+Microsoft Azure - APIs, SDKs and open source projects from Microsoft Azure, https://github.com/Azure<br>
+Azure/azure-container-networking, https://github.com/Azure/azure-container-networking<br>
+
 ## Azure Kubernetes Service
 About AKS, https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes<br>
 Github - Azure/AKS, https://github.com/Azure/AKS<br>
@@ -24,7 +28,6 @@ Support policies for Azure Kubernetes Service, https://docs.microsoft.com/en-us/
 Connect with SSH to Azure Kubernetes Service (AKS) cluster nodes for maintenance or troubleshooting, https://docs.microsoft.com/en-us/azure/aks/ssh<br>
 Azure Kubernetes Network Polices overview, https://docs.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies<br>
 Overview of network policy, https://docs.microsoft.com/en-us/azure/aks/use-network-policies#overview-of-network-policy<br>
-
 
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
@@ -156,6 +159,7 @@ Mounting Azure Files and Blobs using Non-traditional options in Kubernetes, http
 How to faster Node Scale your Kubernetes cluster, https://itnext.io/how-to-faster-node-scale-your-kubernetes-cluster-2c988c7c7d08<br>
 CNI Benchmark: Understanding Cilium Network Performance, https://cilium.io/blog/2021/05/11/cni-benchmark<br>
 Integrating Azure CNI and Calico: A technical deep dive, https://azure.microsoft.com/en-us/blog/integrating-azure-cni-and-calico-a-technical-deep-dive/<br>
+Tutorial: Calico Network Policies with Azure Kubernetes Service, https://cloudblogs.microsoft.com/opensource/2019/10/17/tutorial-calico-network-policies-with-azure-kubernetes-service/<br>
 
 
 ## YouTube
