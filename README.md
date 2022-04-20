@@ -22,6 +22,9 @@ Github - Azure/AKS, https://github.com/Azure/AKS<br>
 Azure Kubernetes Service (AKS) Uptime SLA, https://docs.microsoft.com/en-us/azure/aks/uptime-sla<br>
 Support policies for Azure Kubernetes Service, https://docs.microsoft.com/en-us/azure/aks/support-policies<br>
 Connect with SSH to Azure Kubernetes Service (AKS) cluster nodes for maintenance or troubleshooting, https://docs.microsoft.com/en-us/azure/aks/ssh<br>
+Azure Kubernetes Network Polices overview, https://docs.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies<br>
+Overview of network policy, https://docs.microsoft.com/en-us/azure/aks/use-network-policies#overview-of-network-policy<br>
+
 
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
@@ -152,6 +155,8 @@ Azure Latency Test - Azure Speed Test, https://www.azurespeed.com/Azure/Latency<
 Mounting Azure Files and Blobs using Non-traditional options in Kubernetes, https://medium.com/codex/mounting-azure-files-and-blobs-using-non-traditional-options-in-kubernetes-e12b1522f14f<br>
 How to faster Node Scale your Kubernetes cluster, https://itnext.io/how-to-faster-node-scale-your-kubernetes-cluster-2c988c7c7d08<br>
 CNI Benchmark: Understanding Cilium Network Performance, https://cilium.io/blog/2021/05/11/cni-benchmark<br>
+Integrating Azure CNI and Calico: A technical deep dive, https://azure.microsoft.com/en-us/blog/integrating-azure-cni-and-calico-a-technical-deep-dive/<br>
+
 
 ## YouTube
 Microsoft Cloud Native Global Black Belt, https://www.youtube.com/c/AzureGlobalBlackBelt/videos<br>
