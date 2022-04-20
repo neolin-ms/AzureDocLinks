@@ -28,6 +28,7 @@ Support policies for Azure Kubernetes Service, https://docs.microsoft.com/en-us/
 Connect with SSH to Azure Kubernetes Service (AKS) cluster nodes for maintenance or troubleshooting, https://docs.microsoft.com/en-us/azure/aks/ssh<br>
 Azure Kubernetes Network Polices overview, https://docs.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies<br>
 Overview of network policy, https://docs.microsoft.com/en-us/azure/aks/use-network-policies#overview-of-network-policy<br>
+Update Service Principal in AKS & aks-engine, https://github.com/andyzhangx/demo/blob/master/issues/sp-issues.md#option1-extend-the-original-sp-password-for-one-more-year<br>
 
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
