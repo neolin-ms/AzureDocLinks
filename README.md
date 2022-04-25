@@ -29,6 +29,7 @@ Connect with SSH to Azure Kubernetes Service (AKS) cluster nodes for maintenance
 Azure Kubernetes Network Polices overview, https://docs.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies<br>
 Overview of network policy, https://docs.microsoft.com/en-us/azure/aks/use-network-policies#overview-of-network-policy<br>
 Update Service Principal in AKS & aks-engine, https://github.com/andyzhangx/demo/blob/master/issues/sp-issues.md#option1-extend-the-original-sp-password-for-one-more-year<br>
+Azure Disk - Dynamic - Back up a persistent volume, https://docs.microsoft.com/en-us/azure/aks/azure-disks-dynamic-pv#back-up-a-persistent-volume<br>
 
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
@@ -161,6 +162,7 @@ How to faster Node Scale your Kubernetes cluster, https://itnext.io/how-to-faste
 CNI Benchmark: Understanding Cilium Network Performance, https://cilium.io/blog/2021/05/11/cni-benchmark<br>
 Integrating Azure CNI and Calico: A technical deep dive, https://azure.microsoft.com/en-us/blog/integrating-azure-cni-and-calico-a-technical-deep-dive/<br>
 Tutorial: Calico Network Policies with Azure Kubernetes Service, https://cloudblogs.microsoft.com/opensource/2019/10/17/tutorial-calico-network-policies-with-azure-kubernetes-service/<br>
+Azure Disk Snapshot feature, https://github.com/kubernetes-sigs/azuredisk-csi-driver/tree/master/deploy/example/snapshot<br>
 
 
 ## YouTube
