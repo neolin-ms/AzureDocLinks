@@ -162,8 +162,9 @@ How to faster Node Scale your Kubernetes cluster, https://itnext.io/how-to-faste
 CNI Benchmark: Understanding Cilium Network Performance, https://cilium.io/blog/2021/05/11/cni-benchmark<br>
 Integrating Azure CNI and Calico: A technical deep dive, https://azure.microsoft.com/en-us/blog/integrating-azure-cni-and-calico-a-technical-deep-dive/<br>
 Tutorial: Calico Network Policies with Azure Kubernetes Service, https://cloudblogs.microsoft.com/opensource/2019/10/17/tutorial-calico-network-policies-with-azure-kubernetes-service/<br>
+Private preview: AKS cluster persistent volume backup, https://azure.microsoft.com/en-us/updates/akspvbackupprivatepreview/<br>
 Azure Disk Snapshot feature, https://github.com/kubernetes-sigs/azuredisk-csi-driver/tree/master/deploy/example/snapshot<br>
-
+Feature Request: Backing up Persistent Volumes/Azure Disks Natively #658, https://github.com/Azure/AKS/issues/658<br>
 
 ## YouTube
 Microsoft Cloud Native Global Black Belt, https://www.youtube.com/c/AzureGlobalBlackBelt/videos<br>
