@@ -21,6 +21,7 @@ Microsoft Azure - APIs, SDKs and open source projects from Microsoft Azure, http
 Azure/azure-container-networking, https://github.com/Azure/azure-container-networking<br>
 
 ## Azure Kubernetes Service
+Cloud Provider Azure, https://kubernetes-sigs.github.io/cloud-provider-azure/<br>
 Azure Kubernetes Services troubleshooting documentation, https://docs.microsoft.com/en-us/troubleshoot/azure/azure-kubernetes/welcome-azure-kubernetes<br>
 About AKS, https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes<br>
 Github - Azure/AKS, https://github.com/Azure/AKS<br>
