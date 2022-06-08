@@ -300,6 +300,9 @@ About the Mobility service for VMware VMs and physical servers, https://docs.mic
 ## Azure Container Registry
 Push your first image to your Azure container registry using the Docker CLI, https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli?tabs=azure-cli<br>
 
+## Azure DevOps
+[Updated] New IP address ranges with Service Tags for Azure DevOps Services, https://devblogs.microsoft.com/devops/new-ip-address-ranges-with-service-tags-for-azure-devops-services/<br>
+
 Azure Latency Test - Azure Speed Test, https://www.azurespeed.com/Azure/Latency<br>
 ## Microsoft Support
 UserVoice Pages, https://support.microsoft.com/en-us/office/uservoice-pages-430e1a78-e016-472a-a10f-dc2a3df3450a<br>
