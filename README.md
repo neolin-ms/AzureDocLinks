@@ -168,6 +168,7 @@ Private preview: AKS cluster persistent volume backup, https://azure.microsoft.c
 Azure Disk Snapshot feature, https://github.com/kubernetes-sigs/azuredisk-csi-driver/tree/master/deploy/example/snapshot<br>
 Feature Request: Backing up Persistent Volumes/Azure Disks Natively #658, https://github.com/Azure/AKS/issues/658<br>
 Deprecating weak cryptographic standards (TLS 1.0 and 1.1) in Azure DevOps Services, https://devblogs.microsoft.com/devops/deprecating-weak-cryptographic-standards-tls-1-0-and-1-1-in-azure-devops-services/<br>
+Adding SSL/TLS To Azure Container Instances, https://samkreter.medium.com/adding-ssl-tls-to-azure-container-instances-1e608a8f321c<br>
 
 ## YouTube
 Microsoft Cloud Native Global Black Belt, https://www.youtube.com/c/AzureGlobalBlackBelt/videos<br>
