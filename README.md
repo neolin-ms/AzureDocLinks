@@ -280,6 +280,10 @@ Tubleshoot a faulty Azure VM by using nested virtualization in Azure, https://do
 Troubleshoot Azure Virtual Machines boot errors, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/boot-error-troubleshoot<br>
 Troubleshoot Azure Linux Virtual Machines boot errors, https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/boot-error-troubleshoot-linux<br>
 Frequently asked questions about the Windows 7 end of support, https://docs.microsoft.com/en-us/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq-general<br>
+Capture a TCP dump from a Linux node in an AKS cluster, https://docs.microsoft.com/en-us/troubleshoot/azure/azure-kubernetes/capture-tcp-dump-linux-node-aks<br>
+Capture a TCP dump from a Windows node in an AKS cluster, https://docs.microsoft.com/en-us/troubleshoot/azure/azure-kubernetes/capture-tcp-dump-windows-node-aks?tabs=rdp<br>
+Capture TCP packets from a pod on an AKS cluster, https://docs.microsoft.com/en-us/troubleshoot/azure/azure-kubernetes/packet-capture-pod-level<br>
+
 
 ## Azure Storage
 Soft delete for blobs, https://docs.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-overview<br>
