@@ -32,6 +32,7 @@ Azure Kubernetes Network Polices overview, https://docs.microsoft.com/en-us/azur
 Overview of network policy, https://docs.microsoft.com/en-us/azure/aks/use-network-policies#overview-of-network-policy<br>
 Update Service Principal in AKS & aks-engine, https://github.com/andyzhangx/demo/blob/master/issues/sp-issues.md#option1-extend-the-original-sp-password-for-one-more-year<br>
 Azure Disk - Dynamic - Back up a persistent volume, https://docs.microsoft.com/en-us/azure/aks/azure-disks-dynamic-pv#back-up-a-persistent-volume<br>
+Azure-AgentBaker-ExitStatus, https://github.com/Azure/AgentBaker/blob/821b8212802c02982a611ea74c4ba46c798f556c/pkg/agent/testdata/AKSUbuntu1604%2BEnablePrivateClusterHostsConfigAgent/line9.sh<br>
 
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
@@ -283,7 +284,6 @@ Frequently asked questions about the Windows 7 end of support, https://docs.micr
 Capture a TCP dump from a Linux node in an AKS cluster, https://docs.microsoft.com/en-us/troubleshoot/azure/azure-kubernetes/capture-tcp-dump-linux-node-aks<br>
 Capture a TCP dump from a Windows node in an AKS cluster, https://docs.microsoft.com/en-us/troubleshoot/azure/azure-kubernetes/capture-tcp-dump-windows-node-aks?tabs=rdp<br>
 Capture TCP packets from a pod on an AKS cluster, https://docs.microsoft.com/en-us/troubleshoot/azure/azure-kubernetes/packet-capture-pod-level<br>
-
 
 ## Azure Storage
 Soft delete for blobs, https://docs.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-overview<br>
