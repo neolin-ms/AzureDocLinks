@@ -1,5 +1,8 @@
 # AzureDocLinks
 
+## Azure Support Legal
+SLA summary for Azure services, https://azure.microsoft.com/en-us/support/legal/sla/summary/<br>
+
 ## Azure Share your Ideas / Feature request
 Give us your ideas, https://feedback.azure.com/d365community/<br>
 Issues - Azure/AKS, https://github.com/Azure/AKS/issues<br>
