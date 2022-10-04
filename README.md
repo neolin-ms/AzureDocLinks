@@ -36,6 +36,7 @@ Overview of network policy, https://docs.microsoft.com/en-us/azure/aks/use-netwo
 Update Service Principal in AKS & aks-engine, https://github.com/andyzhangx/demo/blob/master/issues/sp-issues.md#option1-extend-the-original-sp-password-for-one-more-year<br>
 Azure Disk - Dynamic - Back up a persistent volume, https://docs.microsoft.com/en-us/azure/aks/azure-disks-dynamic-pv#back-up-a-persistent-volume<br>
 Azure-AgentBaker-ExitStatus, https://github.com/Azure/AgentBaker/blob/821b8212802c02982a611ea74c4ba46c798f556c/pkg/agent/testdata/AKSUbuntu1604%2BEnablePrivateClusterHostsConfigAgent/line9.sh<br>
+kubectl-exec, https://github.com/mohatb/kubectl-exec<br>
 
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
