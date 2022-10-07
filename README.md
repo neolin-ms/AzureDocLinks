@@ -331,9 +331,11 @@ Open Management Infrastructure Remote Code Execution Vulnerability (CVE-2021-386
 ## azure-content
 Configure LVM on a Linux VM in Azure, https://github.com/uglide/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-configure-lvm.md<br>
 
-## stack overflow 
+## stackoverflow 
 How to find if a Virtual Machine is using managed/Unmanaged disks in Azure, https://stackoverflow.com/questions/43418208/how-to-find-if-a-virtual-machine-is-using-managed-unmanaged-disks-in-azure<br>
 Rabbit MQ support in Azure, https://stackoverflow.com/questions/64267768/rabbit-mq-support-in-azure<br>
+ingress-nginx-controller service is still not removed after uninstalling chart, https://stackoverflow.com/questions/69535221/ingress-nginx-controller-service-is-still-not-removed-after-uninstalling-chart<br>
+how to delete a ingress controller on K8s?, https://stackoverflow.com/questions/70860152/how-to-delete-a-ingress-controller-on-kubernetes<br>
 
 ## Bitnami
 Bitnami Support For Microsoft Azure, https://bitnami.com/support/azure<br>
