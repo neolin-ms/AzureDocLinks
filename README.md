@@ -37,6 +37,8 @@ Update Service Principal in AKS & aks-engine, https://github.com/andyzhangx/demo
 Azure Disk - Dynamic - Back up a persistent volume, https://docs.microsoft.com/en-us/azure/aks/azure-disks-dynamic-pv#back-up-a-persistent-volume<br>
 Azure-AgentBaker-ExitStatus, https://github.com/Azure/AgentBaker/blob/821b8212802c02982a611ea74c4ba46c798f556c/pkg/agent/testdata/AKSUbuntu1604%2BEnablePrivateClusterHostsConfigAgent/line9.sh<br>
 kubectl-exec, https://github.com/mohatb/kubectl-exec<br>
+Patch and upgrade AKS worker nodes, https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-upgrade-practices<br>
+Upgrade a specific node pool, https://learn.microsoft.com/en-us/azure/aks/node-image-upgrade#upgrade-a-specific-node-pool<br>
 
 ## Azure Github
 Tutorials - Tutorial: Setting up E2E SSL, https://azure.github.io/application-gateway-kubernetes-ingress/tutorials/tutorial.e2e-ssl/<br>
