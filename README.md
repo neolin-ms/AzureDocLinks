@@ -348,6 +348,7 @@ Bitnami Support For Microsoft Azure, https://bitnami.com/support/azure<br>
 ## Useful tools 
 Qualys SSL Labs - SSL Server Test, https://www.ssllabs.com/ssltest/index.html<br>
 worldtimebuddy, https://www.worldtimebuddy.com/<br>
+Kusto Detective, https://detective.kusto.io<br>
 
 ## Surface support
 What to do if Surface is running slower, https://support.microsoft.com/en-us/surface/what-to-do-if-surface-is-running-slower-54c567fc-76b0-ef86-aa9f-119ff07993f3<br>
