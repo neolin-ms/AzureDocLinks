@@ -39,6 +39,7 @@ Azure-AgentBaker-ExitStatus, https://github.com/Azure/AgentBaker/blob/821b821280
 kubectl-exec, https://github.com/mohatb/kubectl-exec<br>
 Patch and upgrade AKS worker nodes, https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-upgrade-practices<br>
 Upgrade a specific node pool, https://learn.microsoft.com/en-us/azure/aks/node-image-upgrade#upgrade-a-specific-node-pool<br>
+Azure kubelogin, https://github.com/Azure/kubelogin<br>
 
 ## Azure Github
 Tutorials - Tutorial: Setting up E2E SSL, https://azure.github.io/application-gateway-kubernetes-ingress/tutorials/tutorial.e2e-ssl/<br>
