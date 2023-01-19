@@ -41,6 +41,11 @@ Patch and upgrade AKS worker nodes, https://learn.microsoft.com/en-us/azure/arch
 Upgrade a specific node pool, https://learn.microsoft.com/en-us/azure/aks/node-image-upgrade#upgrade-a-specific-node-pool<br>
 Azure kubelogin, https://github.com/Azure/kubelogin<br>
 
+## Troubleshoot
+Microsoft Azure troubleshooting document, https://learn.microsoft.com/en-us/troubleshoot/azure/<br>
+Azure Virtual Machines troubleshooting documentation, https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/welcome-virtual-machines<br>
+Azure Kubernetes Services troubleshooting document, https://learn.microsoft.com/en-us/troubleshoot/azure/azure-kubernetes/welcome-azure-kubernetes<br>
+
 ## Azure Github
 Tutorials - Tutorial: Setting up E2E SSL, https://azure.github.io/application-gateway-kubernetes-ingress/tutorials/tutorial.e2e-ssl/<br>
 
