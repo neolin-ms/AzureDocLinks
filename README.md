@@ -187,6 +187,7 @@ Feature Request: Backing up Persistent Volumes/Azure Disks Natively #658, https:
 Deprecating weak cryptographic standards (TLS 1.0 and 1.1) in Azure DevOps Services, https://devblogs.microsoft.com/devops/deprecating-weak-cryptographic-standards-tls-1-0-and-1-1-in-azure-devops-services/<br>
 Adding SSL/TLS To Azure Container Instances, https://samkreter.medium.com/adding-ssl-tls-to-azure-container-instances-1e608a8f321c<br>
 Using public IPs from a public IP prefix in AKS, https://blog.nillsf.com/index.php/2021/08/27/using-public-ips-from-a-public-ip-prefix-in-azure-kubernetes-service/<br>
+How to switch to Azure kubelogin, https://aptakube.com/blog/how-to-use-azure-kubelogin<br>
 
 ## YouTube
 Microsoft Cloud Native Global Black Belt, https://www.youtube.com/c/AzureGlobalBlackBelt/videos<br>
