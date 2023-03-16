@@ -22,6 +22,7 @@ Create an Azure service principal with Azure PowerShell, https://docs.microsoft.
 ## Microsoft Azure - Open Source
 Microsoft Azure - APIs, SDKs and open source projects from Microsoft Azure, https://github.com/Azure<br>
 Azure/azure-container-networking, https://github.com/Azure/azure-container-networking<br>
+Azure Tips and Tricks, https://aka.ms/azuretipsandtricks<br>
 
 ## Azure Kubernetes Service
 Cloud Provider Azure, https://kubernetes-sigs.github.io/cloud-provider-azure/<br>
