@@ -46,6 +46,7 @@ Azure kubelogin, https://github.com/Azure/kubelogin<br>
 Microsoft Azure troubleshooting document, https://learn.microsoft.com/en-us/troubleshoot/azure/<br>
 Azure Virtual Machines troubleshooting documentation, https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/welcome-virtual-machines<br>
 Azure Kubernetes Services troubleshooting document, https://learn.microsoft.com/en-us/troubleshoot/azure/azure-kubernetes/welcome-azure-kubernetes<br>
+Can't connect to pods and service in same cluster, https://learn.microsoft.com/en-us/troubleshoot/azure/azure-kubernetes/troubleshoot-connection-pods-services-same-cluster<br>
 
 ## Azure Github
 Tutorials - Tutorial: Setting up E2E SSL, https://azure.github.io/application-gateway-kubernetes-ingress/tutorials/tutorial.e2e-ssl/<br>
