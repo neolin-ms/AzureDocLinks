@@ -50,6 +50,7 @@ Can't connect to pods and service in same cluster, https://learn.microsoft.com/e
 
 ## Azure Github
 Tutorials - Tutorial: Setting up E2E SSL, https://azure.github.io/application-gateway-kubernetes-ingress/tutorials/tutorial.e2e-ssl/<br>
+Azure File Share - SMBDiagnostics, https://github.com/Azure-Samples/azure-files-samples/tree/master/SMBDiagnostics<br>
 
 ## Azure Virtial Macines
 Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys<br>
