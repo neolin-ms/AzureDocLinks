@@ -41,6 +41,7 @@ kubectl-exec, https://github.com/mohatb/kubectl-exec<br>
 Patch and upgrade AKS worker nodes, https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-upgrade-practices<br>
 Upgrade a specific node pool, https://learn.microsoft.com/en-us/azure/aks/node-image-upgrade#upgrade-a-specific-node-pool<br>
 Azure kubelogin, https://github.com/Azure/kubelogin<br>
+Create a ingress own tls on AKS, https://github.com/MicrosoftDocs/azure-docs.zh-tw/blob/master/articles/aks/ingress-own-tls.md<br>
 
 ## Troubleshoot
 Microsoft Azure troubleshooting document, https://learn.microsoft.com/en-us/troubleshoot/azure/<br>
