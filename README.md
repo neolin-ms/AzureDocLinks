@@ -191,6 +191,8 @@ Deprecating weak cryptographic standards (TLS 1.0 and 1.1) in Azure DevOps Servi
 Adding SSL/TLS To Azure Container Instances, https://samkreter.medium.com/adding-ssl-tls-to-azure-container-instances-1e608a8f321c<br>
 Using public IPs from a public IP prefix in AKS, https://blog.nillsf.com/index.php/2021/08/27/using-public-ips-from-a-public-ip-prefix-in-azure-kubernetes-service/<br>
 How to switch to Azure kubelogin, https://aptakube.com/blog/how-to-use-azure-kubelogin<br>
+How to Copy Files Between Storage Accounts Using Azcopy in Azure?, https://www.c-sharpcorner.com/article/how-to-copy-files-between-storage-accounts-using-azcopy-in-azure/<br>
+Install AzCopy on Linux, https://gist.github.com/aessing/76f1200c9f5b2b9671937b3b0ed5fd6f<br>
 
 ## YouTube
 Microsoft Cloud Native Global Black Belt, https://www.youtube.com/c/AzureGlobalBlackBelt/videos<br>
@@ -207,6 +209,7 @@ Tutorial: Configure dynamic inventories of your Azure resources using Ansible, h
 
 ## Azure File
 Azue Files Multiple Backups per Day, https://aka.ms/AzureFilesMultipleBackups<br>
+Use AzCopy with Files - Copy a file to another storage account, https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-files#copy-a-file-to-another-storage-account<br>
 
 ## Azure File Sync
 Troubleshoot Azure File Sync, https://docs.microsoft.com/en-us/azure/storage/file-sync/file-sync-troubleshoot?tabs=portal1%2Cazure-portal#sync<br>
