@@ -92,6 +92,7 @@ Quickstart for Bash in Azure Cloud Shell, https://docs.microsoft.com/en-us/azure
 Features & tools for Azure Cloud Shell, https://docs.microsoft.com/en-us/azure/cloud-shell/features<br>
 
 ## Azure Virtual Network
+Virtual network service tags, https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview<br>
 Manage NICs, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface#create-a-network-interface<br>
 Add or remove network interfaces, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface-vm#before-you-begin<br>
 UnhandledError in Provision: No such file or directory '/etc/sysconfig/network-scripts/ifcfg-eth1' #1048, https://github.com/Azure/WALinuxAgent/issues/1048<br>
