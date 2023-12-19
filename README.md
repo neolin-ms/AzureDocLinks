@@ -106,6 +106,9 @@ Use FQDN filtering in network rules, https://docs.microsoft.com/en-us/azure/fire
 ## Azure Networking Load Balancer
 Retrieve load balancer metadata using the Azure Instance Metadata Service (IMDS), https://docs.microsoft.com/en-us/azure/load-balancer/howto-load-balancer-imds?tabs=linux<br>
 
+## Azure SQL DB
+Azure SQL Connectivity Checker, https://github.com/Azure/SQL-Connectivity-Checker<br>
+
 ## Azure Secuirty Center
 Configure auto provisioning for agents and extensions from Azure Security Center, https://docs.microsoft.com/en-us/azure/security-center/security-center-enable-data-collection<br>
 Remediate recommendations in Azure Security Center, https://docs.microsoft.com/en-us/azure/security-center/security-center-remediate-recommendations<br>
